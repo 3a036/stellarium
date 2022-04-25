@@ -140,18 +140,12 @@ namespace StelUtils
 	//! @param s second component
 	void radToDms(double rad, bool& sign, unsigned int& d, unsigned int& m, double& s);
 
-	//! Convert an angle in radian to decimal degree.
-	//! @param rad input angle in radian
-	//! @param sign true if positive, false otherwise
-	//! @param deg decimal degree
-	void radToDecDeg(double rad, bool& sign, double& deg);
-
 	//! Convert an angle in radian to a decimal degree string.
 	//! @param angle input angle in radian
 	//! @param precision
 	//! @param useD Define if letter "d" must be used instead of deg sign
-	//! @param useC Define if function should use 0-360 degrees
-	QString radToDecDegStr(const double angle, const int precision = 4, const bool useD=false, const bool useC=false);
+	//! @param positive Define if function should use 0-360 degrees
+	QString radToDecDegStr(const double angle, const int precision = 4, const bool useD=false, const bool positive=false);
 
 	//! Convert an angle in radian to a hms formatted string.
 	//! If the second, minute part is == 0, it is not output
