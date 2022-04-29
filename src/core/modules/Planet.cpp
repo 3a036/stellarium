@@ -782,22 +782,25 @@ QString Planet::getInfoStringEloPhase(const StelCore *core, const InfoStringGrou
 		StelUtils::rectToSphe(&ra, &de, getEquinoxEquatorialPos(core));
 		StelUtils::equToEcl(raSun, deSun, obl, &lSun, &bSun);
 		StelUtils::equToEcl(ra, de, obl, &ecLong, &ecLat);
-		double elongAlongEcliptic=StelUtils::fmodpos(ecLong-lSun, M_PI*2.);
+		double elongAlongEcliptic = StelUtils::fmodpos(ecLong-lSun, M_PI*2.);
 		if (elongAlongEcliptic > M_PI) elongAlongEcliptic-=2.*M_PI;
+		double elongationDecDeg=elongAlongEcliptic*M_180_PI;
 
 		QString pha, elo, dLam;
+
 		if (withDecimalDegree)
 		{
 			pha  = StelUtils::radToDecDegStr(getPhaseAngle(observerHelioPos),4,false,true);
 			elo  = StelUtils::radToDecDegStr(elongation,4,false,true);
-			dLam = StelUtils::radToDecDegStr(elongAlongEcliptic,4,false,true);
+			dLam = StelUtils::decDegToLongitudeStr(elongationDecDeg, true, true, false);
 		}
 		else
 		{
 			pha  = StelUtils::radToDmsStr(getPhaseAngle(observerHelioPos), true);
 			elo  = StelUtils::radToDmsStr(elongation, true);
-			dLam = StelUtils::radToDmsStr(elongAlongEcliptic, true);
+			dLam = StelUtils::decDegToLongitudeStr(elongationDecDeg);
 		}
+		elo.replace("+","",Qt::CaseInsensitive); // remove sign
 
 		if (withTables)
 		{
@@ -1477,7 +1480,7 @@ QVariantMap Planet::getInfoMap(const StelCore *core) const
 		double elongation = getElongation(observerHelioPos);
 		map.insert("elongation", elongation);
 		map.insert("elongation-dms", StelUtils::radToDmsStr(elongation));
-		map.insert("elongation-deg", StelUtils::radToDecDegStr(elongation));		
+		map.insert("elongation-deg", StelUtils::radToDecDegStr(elongation));
 		map.insert("velocity", getEclipticVelocity().toString());
 		map.insert("velocity-kms", QString::number(getEclipticVelocity().length()* AU/86400., 'f', 5));
 		map.insert("heliocentric-velocity", getHeliocentricEclipticVelocity().toString());
@@ -1487,7 +1490,6 @@ QVariantMap Planet::getInfoMap(const StelCore *core) const
 	}
 	else
 	{
-		SolarSystem* ssystem = GETSTELMODULE(SolarSystem);
 		QPair<double, PlanetP> eclObj = ssystem->getSolarEclipseFactor(core);
 		const double eclipseObscuration = 100.*(1.-eclObj.first);
 		if (eclipseObscuration>1.e-7)
@@ -1534,6 +1536,24 @@ QVariantMap Planet::getInfoMap(const StelCore *core) const
 		map.insert("pa_axis", phys.first[3]*M_180_PI);
 		map.insert("subsolar_l", phys.second[2]*M_180_PI);
 		map.insert("subsolar_b", phys.second[1]*M_180_PI);
+		// some users require not "modern elongation" but just the DeltaLambda (GH:#1786)
+		double raSun, deSun, ra, de, lSun, ecLong, bSun, ecLat;
+		double obl=earth->getRotObliquity(core->getJDE());
+		if (core->getUseNutation())
+		{
+			double dEps, dPsi;
+			getNutationAngles(core->getJDE(), &dPsi, &dEps);
+			obl+=dEps;
+		}
+		StelUtils::rectToSphe(&raSun, &deSun, ssystem->getSun()->getEquinoxEquatorialPos(core));
+		StelUtils::rectToSphe(&ra, &de, getEquinoxEquatorialPos(core));
+		StelUtils::equToEcl(raSun, deSun, obl, &lSun, &bSun);
+		StelUtils::equToEcl(ra, de, obl, &ecLong, &ecLat);
+		double elongAlongEcliptic = StelUtils::fmodpos(ecLong-lSun, M_PI*2.);
+		if (elongAlongEcliptic > M_PI) elongAlongEcliptic-=2.*M_PI;
+		map.insert("ecl-elongation", elongAlongEcliptic);
+		map.insert("ecl-elongation-dms", StelUtils::radToDmsStr(elongAlongEcliptic));
+		map.insert("ecl-elongation-deg", StelUtils::radToDecDegStr(elongAlongEcliptic));
 	}
 	return map;
 }
@@ -3774,6 +3794,7 @@ Planet::RenderData Planet::setCommonShaderUniforms(const StelPainter& painter, Q
 	GL(shader->setUniformValue(shaderVars.shadowData, data.shadowCandidatesData));
 	GL(shader->setUniformValue(shaderVars.sunInfo, static_cast<GLfloat>(data.mTarget[12]), static_cast<GLfloat>(data.mTarget[13]), static_cast<GLfloat>(data.mTarget[14]), static_cast<GLfloat>(sun->getEquatorialRadius())));
 	GL(shader->setUniformValue(shaderVars.skyBrightness, lmgr->getAtmosphereAverageLuminance()));
+	GL(shader->setUniformValue(shaderVars.poleLat, 1.1f, -0.1f)); // Avoid white objects. poleLat is only used for Mars.
 
 	if(shaderVars.orenNayarParameters>=0)
 	{
@@ -3947,8 +3968,6 @@ void Planet::drawSphere(StelPainter* painter, float screenRd, bool drawOnlyRing)
 		float tSouth=static_cast<float>((latS+90.)/180.);
 		GL(shader->setUniformValue(shaderVars->poleLat, tNorth, tSouth));
 	}
-	else
-		GL(shader->setUniformValue(shaderVars->poleLat, 1.1f, -0.1f)); // add some security margin.
 	GL(shader->setAttributeArray(shaderVars->vertex, static_cast<const GLfloat*>(projectedVertexArr.constData()), 3));
 	GL(shader->enableAttributeArray(shaderVars->vertex));
 	GL(shader->setAttributeArray(shaderVars->unprojectedVertex, static_cast<const GLfloat*>(model.vertexArr.constData()), 3));
@@ -4074,8 +4093,6 @@ void Planet::drawSurvey(StelCore* core, StelPainter* painter)
 			GL(moonShaderProgram->setUniformValue(moonShaderVars.earthShadow, 3));
 		}
 	}
-
-	GL(shader->setUniformValue(shaderVars->poleLat, 1.1f, -0.1f)); // Avoid streaks across Mars
 
 	// Apply a rotation otherwize the hips surveys don't get rendered at the
 	// proper position.  Not sure why...

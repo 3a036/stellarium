@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: stellarium@googlegroups.com\n"
-"POT-Creation-Date: 2022-04-01 12:25+0700\n"
+"POT-Creation-Date: 2022-04-25 02:20+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1770,7 +1770,7 @@ msgstr ""
 
 #. TRANSLATORS: Name of supernova SN 1680A
 #. TRANSLATORS: https://en.wikipedia.org/wiki/Cassiopeia_A
-#: skycultures/translations.fab:797 nebulae/default/names.dat:1299
+#: skycultures/translations.fab:797 nebulae/default/names.dat:1326
 msgid "Cassiopeia A"
 msgstr ""
 
@@ -4260,4160 +4260,4196 @@ msgctxt "Genitive name of constellation"
 msgid "Vulpeculae"
 msgstr ""
 
-#: nebulae/default/names.dat:127
+#: nebulae/default/names.dat:135
 msgid "Bow-Tie Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:128
+#: nebulae/default/names.dat:136
 msgid "Scarab Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:129
+#: nebulae/default/names.dat:137
 msgid "String of Pearls"
 msgstr ""
 
-#: nebulae/default/names.dat:130 nebulae/default/names.dat:131
-#: nebulae/default/names.dat:132 nebulae/default/names.dat:133
+#: nebulae/default/names.dat:138 nebulae/default/names.dat:139
+#: nebulae/default/names.dat:140 nebulae/default/names.dat:141
 msgid "Robert's Quartet"
 msgstr ""
 
-#: nebulae/default/names.dat:134
+#: nebulae/default/names.dat:142
 msgid "47 Tuc"
 msgstr ""
 
-#: nebulae/default/names.dat:135
+#: nebulae/default/names.dat:143
 msgid "NGC 128 group"
 msgstr ""
 
-#: nebulae/default/names.dat:136
+#: nebulae/default/names.dat:144
 msgid "Giant Squid Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:137
+#: nebulae/default/names.dat:145
 msgid "Polarissima Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:138
+#: nebulae/default/names.dat:146
 msgid "Great Star Cloud in Andromeda Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:139
+#: nebulae/default/names.dat:147
 msgid "Andromeda Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:140
+#: nebulae/default/names.dat:148
 msgid "Andromeda Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:141
+#: nebulae/default/names.dat:149
 msgid "Great Nebula in Andromeda"
 msgstr ""
 
-#: nebulae/default/names.dat:142
+#: nebulae/default/names.dat:150
 msgid "Great Spiral"
 msgstr ""
 
-#: nebulae/default/names.dat:143
+#: nebulae/default/names.dat:151
 msgid "Sailboat Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:144 nebulae/default/names.dat:336
+#: nebulae/default/names.dat:152 nebulae/default/names.dat:345
 msgid "Broken Heart Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:145
+#: nebulae/default/names.dat:153
 msgid "Skull Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:146
+#: nebulae/default/names.dat:154
 msgid "Soap Bubble Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:147
+#: nebulae/default/names.dat:155
 msgid "Voodoo Mask Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:149
+#: nebulae/default/names.dat:157
 msgid "Needle's Eye Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:150
+#: nebulae/default/names.dat:158
 msgid "Sculptor Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:151
+#: nebulae/default/names.dat:159
 msgid "Silver Coin Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:152
+#: nebulae/default/names.dat:160
 msgid "Silver Dollar Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:153
+#: nebulae/default/names.dat:161
 msgid "Pacman Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:154
+#: nebulae/default/names.dat:162
 msgid "Pac-Man Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:155
+#: nebulae/default/names.dat:163
 msgid "Lafitte's Grand Isle"
 msgstr ""
 
-#: nebulae/default/names.dat:156 nebulae/default/names.dat:597
+#: nebulae/default/names.dat:164 nebulae/default/names.dat:609
 msgid "Southern Pinwheel Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:157
+#: nebulae/default/names.dat:165
 msgid "Pisces Cloud"
 msgstr ""
 
-#: nebulae/default/names.dat:158
+#: nebulae/default/names.dat:166
 msgid "NGC 383 group"
 msgstr ""
 
-#: nebulae/default/names.dat:159
+#: nebulae/default/names.dat:167
 msgid "Markarian 348"
 msgstr ""
 
-#: nebulae/default/names.dat:160
+#: nebulae/default/names.dat:168
 msgid "Small Magellanic Cloud"
 msgstr ""
 
-#: nebulae/default/names.dat:161
+#: nebulae/default/names.dat:169
 msgid "SMC"
 msgstr ""
 
-#: nebulae/default/names.dat:162
+#: nebulae/default/names.dat:170
 msgid "Nubecula Minor"
 msgstr ""
 
-#: nebulae/default/names.dat:163
+#: nebulae/default/names.dat:171
 msgid "Mirach's Ghost"
 msgstr ""
 
-#: nebulae/default/names.dat:164
+#: nebulae/default/names.dat:172
 msgid "Lost Pearl Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:165
+#: nebulae/default/names.dat:173
 msgid "NGC 507 group"
 msgstr ""
 
-#: nebulae/default/names.dat:166
+#: nebulae/default/names.dat:174
 msgid "Dragonfly Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:167
+#: nebulae/default/names.dat:175
 msgid "Owl Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:168
+#: nebulae/default/names.dat:176
 msgid "E.T. Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:169
+#: nebulae/default/names.dat:177
 msgid "φ Cas Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:170
+#: nebulae/default/names.dat:178
 msgid "Whirligig Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:171
+#: nebulae/default/names.dat:179
 msgid "Little Spindle Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:172
+#: nebulae/default/names.dat:180
 msgid "Triangulum Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:173
+#: nebulae/default/names.dat:181
 msgid "Triangulum Pinwheel"
 msgstr ""
 
-#: nebulae/default/names.dat:174 nebulae/default/names.dat:509
-#: nebulae/default/names.dat:606
+#: nebulae/default/names.dat:182 nebulae/default/names.dat:520
+#: nebulae/default/names.dat:618
 msgid "Pinwheel Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:175
+#: nebulae/default/names.dat:183
 msgid "Triangulum Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:176
+#: nebulae/default/names.dat:184
 msgid "Flying Lizard Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:177
+#: nebulae/default/names.dat:185
 msgid "Phantom Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:178 nebulae/default/names.dat:182
+#: nebulae/default/names.dat:186 nebulae/default/names.dat:190
 msgid "Little Dumbbell Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:179
+#: nebulae/default/names.dat:187
 msgid "Cork Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:180
+#: nebulae/default/names.dat:188
 msgid "Barbell Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:181 nebulae/default/names.dat:345
-#: nebulae/default/names.dat:649 nebulae/default/names.dat:892
+#: nebulae/default/names.dat:189 nebulae/default/names.dat:354
+#: nebulae/default/names.dat:661 nebulae/default/names.dat:893
+#: nebulae/default/names.dat:908
 msgid "Butterfly Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:183
+#: nebulae/default/names.dat:191
 msgid "Fuzzy Butterfly Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:184
+#: nebulae/default/names.dat:192
 msgid "Yin-Yang Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:185
+#: nebulae/default/names.dat:193
 msgid "Lawnmower Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:186
+#: nebulae/default/names.dat:194
 msgid "Letter S Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:187
+#: nebulae/default/names.dat:195
 msgid "Fiddlehead Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:188 nebulae/default/names.dat:191
+#: nebulae/default/names.dat:196 nebulae/default/names.dat:199
 msgid "Double Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:189
+#: nebulae/default/names.dat:197
 msgid "h Persei"
 msgstr ""
 
-#: nebulae/default/names.dat:190 nebulae/default/names.dat:193
+#: nebulae/default/names.dat:198 nebulae/default/names.dat:201
 msgid "Sword Handle"
 msgstr ""
 
-#: nebulae/default/names.dat:192
+#: nebulae/default/names.dat:200
 msgid "χ Persei"
 msgstr ""
 
-#: nebulae/default/names.dat:194
+#: nebulae/default/names.dat:202
 msgid "The Silver Sliver Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:195
+#: nebulae/default/names.dat:203
 msgid "Darth Vader's Starfighter"
 msgstr ""
 
-#: nebulae/default/names.dat:196
+#: nebulae/default/names.dat:204
 msgid "Perseus Lenticular Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:197
+#: nebulae/default/names.dat:205
 msgid "Spiral Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:198
+#: nebulae/default/names.dat:206
 msgid "Fornax Dwarf Cluster 3"
 msgstr ""
 
-#: nebulae/default/names.dat:199
+#: nebulae/default/names.dat:207
 msgid "Fornax H3"
 msgstr ""
 
-#: nebulae/default/names.dat:200
+#: nebulae/default/names.dat:208
 msgid "Fornax C3"
 msgstr ""
 
-#: nebulae/default/names.dat:201
+#: nebulae/default/names.dat:209
 msgid "Fornax 3"
 msgstr ""
 
-#: nebulae/default/names.dat:202
+#: nebulae/default/names.dat:210
 msgid "Fornax Dwarf"
 msgstr ""
 
-#: nebulae/default/names.dat:203
+#: nebulae/default/names.dat:211
 msgid "Cetus A"
 msgstr ""
 
-#: nebulae/default/names.dat:204
+#: nebulae/default/names.dat:212
 msgid "Eye of God Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:205
+#: nebulae/default/names.dat:213
 msgid "Patrick Starfish Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:206
+#: nebulae/default/names.dat:214
 msgid "Snow Collar Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:207
+#: nebulae/default/names.dat:215
 msgid "Perseus A"
 msgstr ""
 
-#: nebulae/default/names.dat:208
-msgid "Topsy Turvy Galaxy"
-msgstr ""
-
-#: nebulae/default/names.dat:209
-msgid "Fornax A"
-msgstr ""
-
-#: nebulae/default/names.dat:210
-msgid "Fornax B"
-msgstr ""
-
-#: nebulae/default/names.dat:211
-msgid "Embryo Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:212
-msgid "Phantom Tiara"
-msgstr ""
-
-#: nebulae/default/names.dat:213 nebulae/default/names.dat:600
-msgid "Little Scorpion Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:214
-msgid "Stingray Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:215
-msgid "Sea Robin Cluster"
-msgstr ""
-
 #: nebulae/default/names.dat:216
-msgid "The Colossal Cosmic Eye"
+msgid "Relic Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:217
-msgid "Robin's Egg Nebula"
+msgid "Topsy Turvy Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:218
-msgid "Comet Planetary Nebula"
+msgid "Fornax A"
 msgstr ""
 
 #: nebulae/default/names.dat:219
-msgid "Great Barred Spiral Galaxy"
+msgid "Fornax B"
 msgstr ""
 
 #: nebulae/default/names.dat:220
-msgid "Eridanus A Group"
+msgid "Embryo Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:221
-msgid "Maia Nebula"
+msgid "Phantom Tiara"
 msgstr ""
 
-#: nebulae/default/names.dat:222
-msgid "Merope Nebula"
+#: nebulae/default/names.dat:222 nebulae/default/names.dat:612
+msgid "Little Scorpion Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:223
-msgid "Tempel's Nebula"
+msgid "Stingray Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:224
-msgid "Fossil Footprint Nebula"
+msgid "Sea Robin Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:225
-msgid "California Nebula"
+msgid "The Colossal Cosmic Eye"
 msgstr ""
 
-#: nebulae/default/names.dat:226 nebulae/default/names.dat:676
-msgid "Dragon Nebula"
+#: nebulae/default/names.dat:226
+msgid "Robin's Egg Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:227
-msgid "Oyster Nebula"
+msgid "Comet Planetary Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:228
-msgid "Camel's Eye Nebula"
+msgid "Great Barred Spiral Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:229
-msgid "Blue Oyster Nebula"
+msgid "Eridanus A Group"
 msgstr ""
 
 #: nebulae/default/names.dat:230
-msgid "Jolly Roger Cluster"
+msgid "Maia Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:231
-msgid "Golden Harp Cluster"
+msgid "Merope Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:232
-msgid "Crystal Ball Nebula"
+msgid "Tempel's Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:233
-msgid "Pansy Nebula"
+msgid "Fossil Footprint Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:234 nebulae/default/names.dat:240
-msgid "m & m Double Cluster"
+#: nebulae/default/names.dat:234
+msgid "California Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:235
-msgid "Haley's Coronet"
+#: nebulae/default/names.dat:235 nebulae/default/names.dat:689
+msgid "Dragon Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:236
-msgid "Cleopatra's Eye Nebula"
+msgid "Oyster Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:237
-msgid "Eskimo's Wife Nebula"
+msgid "Camel's Eye Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:238
-msgid "Celestial Jellyfish"
+msgid "Blue Oyster Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:239
-msgid "Ghost of Neptune Nebula"
+msgid "Jolly Roger Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:240
+msgid "Golden Harp Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:241
-msgid "Running Man Cluster"
+msgid "Crystal Ball Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:242
-msgid "Magic Pentagram Cluster"
+msgid "Pansy Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:243
-msgid "Struve's Lost Nebula"
+#: nebulae/default/names.dat:243 nebulae/default/names.dat:249
+msgid "m & m Double Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:244
-msgid "Struve's Nebula"
+msgid "Haley's Coronet"
 msgstr ""
 
-#: nebulae/default/names.dat:245 nebulae/default/names.dat:246
-msgid "Hind's Variable Nebula"
+#: nebulae/default/names.dat:245
+msgid "Cleopatra's Eye Nebula"
+msgstr ""
+
+#: nebulae/default/names.dat:246
+msgid "Eskimo's Wife Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:247
-msgid "Hind's Nebula"
+msgid "Celestial Jellyfish"
 msgstr ""
 
 #: nebulae/default/names.dat:248
-msgid "Doradus Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:249
-msgid "Spanish Dancer Galaxy"
+msgid "Ghost of Neptune Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:250
-msgid "NGC 1566 Group"
+msgid "Running Man Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:251
-msgid "Northern Trifid Nebula"
+msgid "Magic Pentagram Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:252 nebulae/default/names.dat:253
-msgid "Carafe Group"
+#: nebulae/default/names.dat:252
+msgid "Struve's Lost Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:254
-msgid "Pirate Moon Cluster"
+#: nebulae/default/names.dat:253
+msgid "Struve's Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:255 nebulae/default/names.dat:755
-msgid "Kite Cluster"
+#: nebulae/default/names.dat:254 nebulae/default/names.dat:255
+msgid "Hind's Variable Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:256
-msgid "4-H cluster"
+msgid "Hind's Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:257
-msgid "Cosmic Bat Nebula"
+msgid "Doradus Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:258
-msgid "Foxface Nebula"
+msgid "Spanish Dancer Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:259 nebulae/default/names.dat:260
-msgid "Poor Man's Double Cluster"
+#: nebulae/default/names.dat:259
+msgid "NGC 1566 Group"
 msgstr ""
 
-#: nebulae/default/names.dat:261
-msgid "Letter Y Cluster"
+#: nebulae/default/names.dat:260
+msgid "Northern Trifid Nebula"
+msgstr ""
+
+#: nebulae/default/names.dat:261 nebulae/default/names.dat:262
+msgid "Carafe Group"
 msgstr ""
 
 #: nebulae/default/names.dat:263
-msgid "S Dor Cluster"
+msgid "Pirate Moon Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:264 nebulae/default/names.dat:685
-msgid "Starfish Cluster"
+#: nebulae/default/names.dat:264 nebulae/default/names.dat:767
+msgid "Kite Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:265
-msgid "Letter Pi Cluster"
+msgid "4-H cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:266
+msgid "Cosmic Bat Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:267
-msgid "The Fly Nebula"
+msgid "Foxface Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:268
-msgid "Crab Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:269
-msgid "Taurus A"
+#: nebulae/default/names.dat:268 nebulae/default/names.dat:269
+msgid "Poor Man's Double Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:270
-msgid "Pinwheel Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:271 nebulae/default/names.dat:273
-#: nebulae/default/names.dat:277
-msgid "Running Man Nebula"
+msgid "Letter Y Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:272
-msgid "Mermaid's Purse Nebula"
+msgid "S Dor Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:273 nebulae/default/names.dat:698
+msgid "Starfish Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:274
-msgid "Great Orion Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:275
-msgid "Orion Nebula"
+msgid "Letter Pi Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:276
-msgid "Orion A"
+msgid "The Fly Nebula"
+msgstr ""
+
+#: nebulae/default/names.dat:277
+msgid "Crab Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:278
-msgid "Mermaid's Purse"
+msgid "Taurus A"
 msgstr ""
 
 #: nebulae/default/names.dat:279
-msgid "The Lost Jewel of Orion"
+msgid "Pinwheel Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:280
-msgid "Lower Sword"
+#: nebulae/default/names.dat:280 nebulae/default/names.dat:282
+#: nebulae/default/names.dat:286
+msgid "Running Man Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:281
-msgid "Coal Car Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:282
-msgid "Upper Sword"
+msgid "Mermaid's Purse Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:283
-msgid "de Mairan's Nebula"
+msgid "Great Orion Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:284
-msgid "Mairan's Nebula"
+msgid "Orion Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:285
-msgid "ε Ori Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:286
-msgid "13th Pearl Nebula"
+msgid "Orion A"
 msgstr ""
 
 #: nebulae/default/names.dat:287
-msgid "Rubber Stamp Nebula"
+msgid "Mermaid's Purse"
 msgstr ""
 
 #: nebulae/default/names.dat:288
-msgid "Black Eye Nebula"
+msgid "The Lost Jewel of Orion"
 msgstr ""
 
 #: nebulae/default/names.dat:289
-msgid "Kissing Crescents Nebula"
+msgid "Lower Sword"
 msgstr ""
 
 #: nebulae/default/names.dat:290
-msgid "Orion's Collarbone Nebula"
+msgid "Coal Car Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:291
-msgid "Lump Star"
+msgid "Upper Sword"
 msgstr ""
 
 #: nebulae/default/names.dat:292
-msgid "Flame Nebula"
+msgid "de Mairan's Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:293
-msgid "Tank Tracks Nebula"
+msgid "Mairan's Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:294
-msgid "Maple Leaf Nebula"
+msgid "ε Ori Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:295
-msgid "Lips Nebula"
+msgid "13th Pearl Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:296
-msgid "Burning Bush Nebula"
+msgid "Rubber Stamp Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:297
-msgid "The Ghost of Alnitak"
+msgid "Black Eye Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:298
-msgid "Southern Seagull Nebula"
+msgid "Kissing Crescents Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:299
-msgid "Dragon’s Head Nebula"
+msgid "Orion's Collarbone Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:300
-msgid "30 Dor B"
+msgid "Lump Star"
 msgstr ""
 
 #: nebulae/default/names.dat:301
-msgid "Casper the Friendly Ghost Nebula"
+msgid "Flame Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:302
-msgid "Tarantula Nebula"
+msgid "Tank Tracks Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:303
-msgid "Great Looped Nebula"
+msgid "Maple Leaf Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:304
-msgid "True Lovers' Knot"
+msgid "Lips Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:305
-msgid "30 Dor Cluster"
+msgid "Burning Bush Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:306
-msgid "30 Dor Nebula"
+msgid "The Ghost of Alnitak"
 msgstr ""
 
 #: nebulae/default/names.dat:307
-msgid "Ghost Head Nebula"
+msgid "Southern Seagull Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:308
-msgid "January Salt-and-Pepper Cluster"
+msgid "Dragon’s Head Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:309
-msgid "Auriga Salt and Pepper Cluster"
+msgid "30 Dor B"
 msgstr ""
 
 #: nebulae/default/names.dat:310
-msgid "Dusty Hand Galaxy"
+msgid "Casper the Friendly Ghost Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:311
-msgid "Shoe-Buckle Cluster"
+msgid "Tarantula Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:312
-msgid "The 37 Cluster"
+msgid "Great Looped Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:313
-msgid "The 'LE' Cluster"
+msgid "True Lovers' Knot"
 msgstr ""
 
 #: nebulae/default/names.dat:314
-msgid "Shopping Cart Cluster"
+msgid "30 Dor Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:315
-msgid "Little Pleiades"
+msgid "30 Dor Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:316
-msgid "Angel Nebula"
+msgid "Ghost Head Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:317
-msgid "Mon R2 IRS3"
+msgid "January Salt-and-Pepper Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:318
-msgid "Monkey Head Nebula"
+msgid "Auriga Salt and Pepper Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:319
-msgid "Double Wedge Cluster"
+msgid "Dusty Hand Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:320 nebulae/default/names.dat:323
-#: nebulae/default/names.dat:325 nebulae/default/names.dat:327
-#: nebulae/default/names.dat:1033 nebulae/default/names.dat:1317
-msgid "Rosette Nebula"
+#: nebulae/default/names.dat:320
+msgid "Shoe-Buckle Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:321
-msgid "Rosette A"
+msgid "The 37 Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:322
-msgid "NGC 2244 Satellite Cluster"
+msgid "The 'LE' Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:323
+msgid "Shopping Cart Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:324
+msgid "Little Pleiades"
+msgstr ""
+
+#: nebulae/default/names.dat:325
+msgid "Angel Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:326
-msgid "Harp Cluster"
+msgid "Mon R2 IRS3"
+msgstr ""
+
+#: nebulae/default/names.dat:327
+msgid "Monkey Head Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:328
-msgid "Rosette B"
+msgid "Double Wedge Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:329
-msgid "Hubble's Variable Nebula"
+#: nebulae/default/names.dat:329 nebulae/default/names.dat:332
+#: nebulae/default/names.dat:334 nebulae/default/names.dat:336
+#: nebulae/default/names.dat:1058 nebulae/default/names.dat:1344
+msgid "Rosette Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:330
-msgid "Hubble's Nebula"
+msgid "Rosette A"
 msgstr ""
 
 #: nebulae/default/names.dat:331
-msgid "Christmas Tree Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:332 nebulae/default/names.dat:1058
-msgid "Cone Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:333
-msgid "Fox Fur Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:334
-msgid "Head Hunter Cluster"
+msgid "NGC 2244 Satellite Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:335
-msgid "Starfighter Cluster"
+msgid "Harp Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:337
-msgid "Little Beehive Cluster"
+msgid "Rosette B"
 msgstr ""
 
 #: nebulae/default/names.dat:338
-msgid "Great Bird Cluster"
+msgid "Hubble's Variable Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:339
-msgid "Hagrid's Dragon Cluster"
+msgid "Hubble's Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:340
-msgid "Copeland's Golden Worm"
+msgid "Christmas Tree Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:341
-msgid "Heart-Shaped Cluster"
+#: nebulae/default/names.dat:341 nebulae/default/names.dat:1084
+msgid "Cone Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:342
-msgid "Coil Cluster"
+msgid "Fox Fur Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:343
-msgid "Parrot Nebula"
+msgid "Head Hunter Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:344
-msgid "Doublemint Cluster"
+msgid "Starfighter Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:346
-msgid "Hourglass Planetary Nebula"
+msgid "Little Beehive Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:347
-msgid "Crimson Butterfly Nebula"
+msgid "Great Bird Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:348
-msgid "Avery's Island"
+msgid "Hagrid's Dragon Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:349
-msgid "Thor's Helmet"
+msgid "Copeland's Golden Worm"
 msgstr ""
 
 #: nebulae/default/names.dat:350
-msgid "Duck Head Nebula"
+msgid "Heart-Shaped Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:351
-msgid "Flying Eye Nebula"
+msgid "Coil Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:352
-msgid "Duck Nebula"
+msgid "Parrot Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:353
-msgid "Whistle Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:354
-msgid "Caroline's Cluster"
+msgid "Doublemint Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:355
-msgid "τ CMa Cluster"
+msgid "Hourglass Planetary Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:356
-msgid "Mexican Jumping Star"
+msgid "Crimson Butterfly Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:357
-msgid "Pirate's Jewels Cluster"
+msgid "Avery's Island"
 msgstr ""
 
 #: nebulae/default/names.dat:358
-msgid "Charlie Brown's Christmas Tree"
+msgid "Thor's Helmet"
 msgstr ""
 
 #: nebulae/default/names.dat:359
-msgid "Gemini Nebula"
+msgid "Duck Head Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:360 nebulae/default/names.dat:1240
-msgid "Ant Nebula"
+#: nebulae/default/names.dat:360
+msgid "Flying Eye Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:361
-msgid "Double Bubble Nebula"
+msgid "Duck Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:362
-msgid "Peanut Nebula"
+msgid "Whistle Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:363
-msgid "Eskimo Nebula"
+msgid "Caroline's Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:364
-msgid "Clown Face Nebula"
+msgid "τ CMa Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:365
-msgid "Firsse 213"
+msgid "Mexican Jumping Star"
 msgstr ""
 
 #: nebulae/default/names.dat:366
-msgid "Intergalactic Wanderer"
+msgid "Pirate's Jewels Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:367
-msgid "Intergalactic Tramp"
+msgid "Charlie Brown's Christmas Tree"
 msgstr ""
 
 #: nebulae/default/names.dat:368
-msgid "Twinkling Comet Cluster"
+msgid "Gemini Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:369
-msgid "Bold Arrow Cluster"
+#: nebulae/default/names.dat:369 nebulae/default/names.dat:1267
+msgid "Ant Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:370
-msgid "Albino Butterfly Nebula"
+msgid "Double Bubble Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:371
-msgid "Burning Ember Nebula"
+msgid "Peanut Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:372
-msgid "Bat Nebula"
+msgid "Eskimo Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:373
-msgid "Kiss Nebula"
+msgid "Clown Face Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:374
-msgid "Little Lips Nebula"
+msgid "Firsse 213"
 msgstr ""
 
 #: nebulae/default/names.dat:375
-msgid "Meathook Galaxy"
+msgid "Intergalactic Wanderer"
 msgstr ""
 
-#: nebulae/default/names.dat:376 nebulae/default/names.dat:663
-msgid "Butterfly Cluster"
+#: nebulae/default/names.dat:376
+msgid "Intergalactic Tramp"
 msgstr ""
 
 #: nebulae/default/names.dat:377
-msgid "Stinging Scorpion Cluster"
+msgid "Twinkling Comet Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:378
-msgid "Skull and Crossbones Nebula"
+msgid "Bold Arrow Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:379
-msgid "Chained Brooch Nebula"
+msgid "Albino Butterfly Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:380
-msgid "Electric Guitar Cluster"
+msgid "Burning Ember Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:381
-msgid "Termite Hole Cluster"
+msgid "Bat Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:382
-msgid "Southern Beehive"
+msgid "Kiss Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:383
-msgid "Sprinter Cluster"
+msgid "Little Lips Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:384
-msgid "Diamond Cluster"
+msgid "Meathook Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:385
-msgid "Bear's Paw Galaxy"
+#: nebulae/default/names.dat:385 nebulae/default/names.dat:676
+msgid "Butterfly Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:386 nebulae/default/names.dat:1007
-msgid "Bear Claw Nebula"
+#: nebulae/default/names.dat:386
+msgid "Stinging Scorpion Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:387
-msgid "The Dish Cluster"
+msgid "Skull and Crossbones Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:388
-msgid "Heart and Dagger Cluster"
+msgid "Chained Brooch Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:389
-msgid "Wounded Heart Cluster"
+msgid "Electric Guitar Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:390
-msgid "Golden Earring Cluster"
+msgid "Termite Hole Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:391
-msgid "St. Peter's Cross Cluster"
+msgid "Southern Beehive"
+msgstr ""
+
+#: nebulae/default/names.dat:392
+msgid "Sprinter Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:393
+msgid "Diamond Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:394
-msgid "Malus Cluster"
+msgid "Bear's Paw Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:395
-msgid "Polarissima Australis"
+#: nebulae/default/names.dat:395 nebulae/default/names.dat:666
+#: nebulae/default/names.dat:1032
+msgid "Bear's Claw Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:396
-msgid "Beehive Cluster"
+msgid "The Dish Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:397
-msgid "Praesepe"
+msgid "Heart and Dagger Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:398
-msgid "Manger"
+msgid "Wounded Heart Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:399
-msgid "Golden-Eye Cluster"
+msgid "Golden Earring Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:400
-msgid "Pac-Man Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:401
-msgid "King Cobra Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:402
-msgid "UFO Galaxy"
+msgid "St. Peter's Cross Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:403
-msgid "Helix Galaxy"
+msgid "Malus Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:404
-msgid "Pancake Galaxy"
+msgid "Polarissima Australis"
 msgstr ""
 
-#: nebulae/default/names.dat:405 nebulae/default/names.dat:423
-#: nebulae/default/names.dat:614
-msgid "Spindle Galaxy"
+#: nebulae/default/names.dat:405
+msgid "Beehive Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:406
-msgid "Pencil Nebula"
+msgid "Praesepe"
 msgstr ""
 
 #: nebulae/default/names.dat:407
-msgid "Herschel's Ray Nebula"
+msgid "Manger"
 msgstr ""
 
 #: nebulae/default/names.dat:408
-msgid "NGC 2769 Group"
+msgid "Golden-Eye Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:409
-msgid "Supernova Factory"
+msgid "Pac-Man Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:410
-msgid "Tiger's Eye Galaxy"
+msgid "King Cobra Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:411
-msgid "The Penguin Galaxy"
+msgid "UFO Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:412
-msgid "The Porpoise Galaxy"
+msgid "Helix Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:413
-msgid "The Egg Galaxy"
+msgid "Pancake Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:414
-msgid "Bode's Galaxy"
+#: nebulae/default/names.dat:414 nebulae/default/names.dat:432
+#: nebulae/default/names.dat:626
+msgid "Spindle Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:415 nebulae/default/names.dat:419
-msgid "Bode's Nebula"
+#: nebulae/default/names.dat:415
+msgid "Pencil Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:416
-msgid "The Great Spiral"
+msgid "Herschel's Ray Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:417
-msgid "Cigar Galaxy"
+msgid "NGC 2769 Group"
 msgstr ""
 
 #: nebulae/default/names.dat:418
-msgid "Ursa Major A"
+msgid "Supernova Factory"
 msgstr ""
 
-#: nebulae/default/names.dat:420 nebulae/default/names.dat:1117
-msgid "The Garland Galaxy"
+#: nebulae/default/names.dat:419
+msgid "Tiger's Eye Galaxy"
+msgstr ""
+
+#: nebulae/default/names.dat:420
+msgid "The Penguin Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:421
-msgid "The Phantom Frisbee Galaxy"
+msgid "The Porpoise Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:422
-msgid "Hand Cluster"
+msgid "The Egg Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:424
-msgid "Spindle Nebula"
+#: nebulae/default/names.dat:423
+msgid "Bode's Galaxy"
+msgstr ""
+
+#: nebulae/default/names.dat:424 nebulae/default/names.dat:428
+msgid "Bode's Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:425
-msgid "Eight-Burst Planetary Nebula"
+msgid "The Great Spiral"
 msgstr ""
 
-#: nebulae/default/names.dat:426 nebulae/default/names.dat:687
-msgid "Southern Ring Nebula"
+#: nebulae/default/names.dat:426
+msgid "Cigar Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:427
-msgid "Polarissima Borealis"
+msgid "Ursa Major A"
 msgstr ""
 
-#: nebulae/default/names.dat:428
-msgid "Polarissima"
+#: nebulae/default/names.dat:429 nebulae/default/names.dat:1143
+msgid "The Garland Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:430
-msgid "Little Pinwheel Galaxy"
+msgid "The Phantom Frisbee Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:431 nebulae/default/names.dat:432
-#: nebulae/default/names.dat:434 nebulae/default/names.dat:435
-msgid "Leo Quartet"
+#: nebulae/default/names.dat:431
+msgid "Hand Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:433
-msgid "NGC 3190 Group"
+msgid "Spindle Nebula"
+msgstr ""
+
+#: nebulae/default/names.dat:434
+msgid "Eight-Burst Planetary Nebula"
+msgstr ""
+
+#: nebulae/default/names.dat:435 nebulae/default/names.dat:700
+msgid "Southern Ring Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:436
-msgid "Falcated Nebula"
+msgid "Polarissima Borealis"
 msgstr ""
 
 #: nebulae/default/names.dat:437
-msgid "Queen's Cache Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:438
-msgid "Ghost of Jupiter Nebula"
+msgid "Polarissima"
 msgstr ""
 
 #: nebulae/default/names.dat:439
-msgid "Eye Nebula"
+msgid "Little Pinwheel Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:440
-msgid "Diamond Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:441
-msgid "Gem Cluster"
+#: nebulae/default/names.dat:440 nebulae/default/names.dat:441
+#: nebulae/default/names.dat:443 nebulae/default/names.dat:444
+msgid "Leo Quartet"
 msgstr ""
 
 #: nebulae/default/names.dat:442
-msgid "Spider Spit Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:443
-msgid "Little Jewel Box"
-msgstr ""
-
-#: nebulae/default/names.dat:444
-msgid "Bow and Arrow Galaxy"
+msgid "NGC 3190 Group"
 msgstr ""
 
 #: nebulae/default/names.dat:445
-msgid "The Gabriela Mistral Nebula"
+msgid "Falcated Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:446
-msgid "Sliced Onion Galaxy"
+msgid "Banana Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:447
-msgid "η Car Nebula"
+msgid "Queen's Cache Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:448
-msgid "Homunculus Nebula"
+msgid "Ghost of Jupiter Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:449
-msgid "Keyhole Nebula"
+msgid "Eye Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:450
-msgid "The Great Nebula in Carina"
+msgid "Diamond Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:451
-msgid "Knitting Needle Galaxy"
+msgid "Gem Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:452
-msgid "Bubble Galaxy"
+msgid "Spider Spit Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:453
-msgid "Wishing Well Cluster"
+msgid "Little Jewel Box"
 msgstr ""
 
 #: nebulae/default/names.dat:454
-msgid "Firefly Party Cluster"
+msgid "Bow and Arrow Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:455
-msgid "Pincushion Cluster"
+msgid "The Gabriela Mistral Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:456
-msgid "The Pin Cushion Cluster"
+msgid "Sliced Onion Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:457
-msgid "Surfboard Galaxy"
+msgid "η Car Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:458
-msgid "Ambartsumian's Knot"
+msgid "Homunculus Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:459
-msgid "The Guitar"
+msgid "Keyhole Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:460
-msgid "Statue of Liberty Nebula"
+msgid "The Great Nebula in Carina"
 msgstr ""
 
 #: nebulae/default/names.dat:461
-msgid "Owl Nebula"
+msgid "Knitting Needle Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:462
-msgid "Frame Galaxy"
+msgid "Bubble Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:463
-msgid "Southern Cross Galaxy"
+msgid "Wishing Well Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:464 nebulae/default/names.dat:465
-#: nebulae/default/names.dat:467
-msgid "Leo Triplet"
+#: nebulae/default/names.dat:464
+msgid "Firefly Party Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:465
+msgid "Pincushion Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:466
-msgid "Hamburger Galaxy"
+msgid "The Pin Cushion Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:467
+msgid "Surfboard Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:468
-msgid "King Hamlet's Ghost"
+msgid "Ambartsumian's Knot"
 msgstr ""
 
 #: nebulae/default/names.dat:469
-msgid "Vanishing Galaxy"
+msgid "The Guitar"
 msgstr ""
 
-#: nebulae/default/names.dat:470 nebulae/default/names.dat:471
-#: nebulae/default/names.dat:472 nebulae/default/names.dat:473
+#: nebulae/default/names.dat:470
+msgid "Statue of Liberty Nebula"
+msgstr ""
+
+#: nebulae/default/names.dat:471
+msgid "Owl Nebula"
+msgstr ""
+
+#: nebulae/default/names.dat:472
+msgid "Frame Galaxy"
+msgstr ""
+
+#: nebulae/default/names.dat:473
+msgid "Southern Cross Galaxy"
+msgstr ""
+
 #: nebulae/default/names.dat:474 nebulae/default/names.dat:475
-#: nebulae/default/names.dat:476
-msgid "Copeland's Septet"
+#: nebulae/default/names.dat:477
+msgid "Leo Triplet"
 msgstr ""
 
-#: nebulae/default/names.dat:477
-msgid "Pearl Cluster"
+#: nebulae/default/names.dat:476
+msgid "Hamburger Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:478
-msgid "Rich Man's Jewel Box"
+msgid "King Hamlet's Ghost"
 msgstr ""
 
 #: nebulae/default/names.dat:479
+msgid "Vanishing Galaxy"
+msgstr ""
+
+#: nebulae/default/names.dat:480 nebulae/default/names.dat:481
+#: nebulae/default/names.dat:482 nebulae/default/names.dat:483
+#: nebulae/default/names.dat:484 nebulae/default/names.dat:485
+#: nebulae/default/names.dat:486
+msgid "Copeland's Septet"
+msgstr ""
+
+#: nebulae/default/names.dat:487
+msgid "Pearl Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:488
+msgid "Rich Man's Jewel Box"
+msgstr ""
+
+#: nebulae/default/names.dat:489
 msgid "Blue Planetary Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:480
+#: nebulae/default/names.dat:490
 msgid "The Southerner"
 msgstr ""
 
-#: nebulae/default/names.dat:481
+#: nebulae/default/names.dat:491
 msgid "Miniature Spiral"
 msgstr ""
 
-#: nebulae/default/names.dat:482
+#: nebulae/default/names.dat:492
 msgid "Vacuum Cleaner Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:483
+#: nebulae/default/names.dat:493
 msgid "NGC 4005 group"
 msgstr ""
 
-#: nebulae/default/names.dat:484 nebulae/default/names.dat:488
+#: nebulae/default/names.dat:494 nebulae/default/names.dat:498
 msgid "Antennae"
 msgstr ""
 
-#: nebulae/default/names.dat:485 nebulae/default/names.dat:489
+#: nebulae/default/names.dat:495 nebulae/default/names.dat:499
 msgid "Ring-Tail Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:486 nebulae/default/names.dat:490
+#: nebulae/default/names.dat:496 nebulae/default/names.dat:500
 msgid "Snorter"
 msgstr ""
 
-#: nebulae/default/names.dat:487 nebulae/default/names.dat:491
+#: nebulae/default/names.dat:497 nebulae/default/names.dat:501
 msgid "Mosquito larvae"
 msgstr ""
 
-#: nebulae/default/names.dat:492
+#: nebulae/default/names.dat:502
 msgid "The Longtail"
 msgstr ""
 
 #. TRANSLATORS: "Kick the can" is name of the game
-#: nebulae/default/names.dat:494
+#: nebulae/default/names.dat:504
 msgid "Kick the Can Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:495
+#: nebulae/default/names.dat:505
 msgid "Eye of Sauron"
 msgstr ""
 
-#: nebulae/default/names.dat:496 nebulae/default/names.dat:497
-#: nebulae/default/names.dat:498 nebulae/default/names.dat:499
+#: nebulae/default/names.dat:506 nebulae/default/names.dat:507
+#: nebulae/default/names.dat:508 nebulae/default/names.dat:509
+#: nebulae/default/names.dat:510
 msgid "The Box"
 msgstr ""
 
-#: nebulae/default/names.dat:500
+#: nebulae/default/names.dat:511
 msgid "Medusa Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:501
+#: nebulae/default/names.dat:512
 msgid "Medusa merger"
 msgstr ""
 
-#: nebulae/default/names.dat:502
+#: nebulae/default/names.dat:513
 msgid "Medusa Galaxy Merger"
 msgstr ""
 
-#: nebulae/default/names.dat:503
+#: nebulae/default/names.dat:514
 msgid "Silver Streak Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:504
+#: nebulae/default/names.dat:515
 msgid "Weaver's Shuttle Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:505
+#: nebulae/default/names.dat:516
 msgid "Silver Needle Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:506
+#: nebulae/default/names.dat:517
 msgid "Virgo Cluster Pinwheel"
 msgstr ""
 
-#: nebulae/default/names.dat:507
+#: nebulae/default/names.dat:518
 msgid "Coma Pinwheel Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:508
+#: nebulae/default/names.dat:519
 msgid "St. Catherine’s Wheel"
 msgstr ""
 
-#: nebulae/default/names.dat:510
+#: nebulae/default/names.dat:521
 msgid "Swelling Spiral Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:511
+#: nebulae/default/names.dat:522
 msgid "Blowdryer Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:512
+#: nebulae/default/names.dat:523
 msgid "Mirror Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:513
+#: nebulae/default/names.dat:524
 msgid "Galaxy Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:514
+#: nebulae/default/names.dat:525
 msgid "Lawn Sprinkler Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:515 nebulae/default/names.dat:517
-#: nebulae/default/names.dat:520 nebulae/default/names.dat:523
-#: nebulae/default/names.dat:525 nebulae/default/names.dat:526
-#: nebulae/default/names.dat:527
+#: nebulae/default/names.dat:526 nebulae/default/names.dat:528
+#: nebulae/default/names.dat:531 nebulae/default/names.dat:534
+#: nebulae/default/names.dat:536 nebulae/default/names.dat:537
+#: nebulae/default/names.dat:538 nebulae/default/names.dat:539
 msgid "Markarian's Chain"
 msgstr ""
 
-#: nebulae/default/names.dat:516
+#: nebulae/default/names.dat:527
 msgid "Great Galactic Face"
 msgstr ""
 
-#: nebulae/default/names.dat:518 nebulae/default/names.dat:521
+#: nebulae/default/names.dat:529 nebulae/default/names.dat:532
 #: skycultures/arabic_arabian_peninsula/constellation_names.eng.fab:16
 #: skycultures/arabic_indigenous/constellation_names.eng.fab:78
 #: skycultures/arabic_lunar_mansions/constellation_names.eng.fab:26
 msgid "The Eyes"
 msgstr ""
 
-#: nebulae/default/names.dat:519 nebulae/default/names.dat:522
+#: nebulae/default/names.dat:530 nebulae/default/names.dat:533
 msgid "Copeland's Eyes"
 msgstr ""
 
-#: nebulae/default/names.dat:524
+#: nebulae/default/names.dat:535
 msgid "The Box Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:528
+#: nebulae/default/names.dat:540
 msgid "Virgo Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:529
+#: nebulae/default/names.dat:541
 msgid "Virgo A"
 msgstr ""
 
-#: nebulae/default/names.dat:530
+#: nebulae/default/names.dat:542
 msgid "Smoking gun"
 msgstr ""
 
-#: nebulae/default/names.dat:531
+#: nebulae/default/names.dat:543
 msgid "Cocoon Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:532
+#: nebulae/default/names.dat:544
 msgid "Shapley-Ames 2"
 msgstr ""
 
-#: nebulae/default/names.dat:533
+#: nebulae/default/names.dat:545
 msgid "Lost Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:534
+#: nebulae/default/names.dat:546
 msgid "Hairy Eyebrow Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:535
+#: nebulae/default/names.dat:547
 msgid "The Lost Galaxy of Copeland"
 msgstr ""
 
-#: nebulae/default/names.dat:536
+#: nebulae/default/names.dat:548
 msgid "Koi Fish Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:537
+#: nebulae/default/names.dat:549
 msgid "Needle Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:538
+#: nebulae/default/names.dat:550
 msgid "Berenice's Hair Clip"
 msgstr ""
 
-#: nebulae/default/names.dat:539
+#: nebulae/default/names.dat:551
 msgid "Flying Saucer Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:540 nebulae/default/names.dat:543
+#: nebulae/default/names.dat:552 nebulae/default/names.dat:555
 msgid "Siamese Twins"
 msgstr ""
 
-#: nebulae/default/names.dat:541 nebulae/default/names.dat:544
+#: nebulae/default/names.dat:553 nebulae/default/names.dat:556
 msgid "Butterfly Galaxies"
 msgstr ""
 
-#: nebulae/default/names.dat:542 nebulae/default/names.dat:545
+#: nebulae/default/names.dat:554 nebulae/default/names.dat:557
 msgid "Fish and Chips Galaxies"
 msgstr ""
 
-#: nebulae/default/names.dat:546
+#: nebulae/default/names.dat:558
 msgid "Sombrero Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:547
+#: nebulae/default/names.dat:559
 msgid "Dark Lane Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:548
+#: nebulae/default/names.dat:560
 msgid "Faberge Egg Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:549
+#: nebulae/default/names.dat:561
 msgid "Frankenstein Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:550
+#: nebulae/default/names.dat:562
 msgid "Coalsack Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:551
+#: nebulae/default/names.dat:563
 msgid "Backward Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:552 nebulae/default/names.dat:555
-#: nebulae/default/names.dat:1138
+#: nebulae/default/names.dat:564 nebulae/default/names.dat:567
+#: nebulae/default/names.dat:1164
 msgid "Centaurus Chain"
 msgstr ""
 
-#: nebulae/default/names.dat:553
+#: nebulae/default/names.dat:565
 msgid "Whale Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:554
+#: nebulae/default/names.dat:566
 msgid "Herring Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:556
+#: nebulae/default/names.dat:568
 msgid "Umbrella Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:557
+#: nebulae/default/names.dat:569
 msgid "Crowbar Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:558
+#: nebulae/default/names.dat:570
 msgid "Hockey Stick Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:559
+#: nebulae/default/names.dat:571
 msgid "The Hook"
 msgstr ""
 
-#: nebulae/default/names.dat:560
+#: nebulae/default/names.dat:572
 msgid "The Hummingbird"
 msgstr ""
 
-#: nebulae/default/names.dat:561
+#: nebulae/default/names.dat:573
 msgid "Fishhook Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:562
+#: nebulae/default/names.dat:574
 msgid "Superwind-Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:563
+#: nebulae/default/names.dat:575
 msgid "Mice Galaxies"
 msgstr ""
 
-#: nebulae/default/names.dat:564
+#: nebulae/default/names.dat:576
 msgid "Vinyl LP Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:565
+#: nebulae/default/names.dat:577
 msgid "Croc's Eye Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:566
+#: nebulae/default/names.dat:578
 msgid "Dust Devil Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:567
+#: nebulae/default/names.dat:579
 msgid "Jewel Box"
 msgstr ""
 
-#: nebulae/default/names.dat:568
+#: nebulae/default/names.dat:580
 msgid "Herschel's Jewel Box"
 msgstr ""
 
-#: nebulae/default/names.dat:569
+#: nebulae/default/names.dat:581
 msgid "κ Cru Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:570
+#: nebulae/default/names.dat:582
 msgid "Paper-Kite Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:571
+#: nebulae/default/names.dat:583
 msgid "Kidney Bean Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:572
+#: nebulae/default/names.dat:584
 msgid "Black Eye Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:573
+#: nebulae/default/names.dat:585
 msgid "Evil Eye Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:574
+#: nebulae/default/names.dat:586
 msgid "Sleeping Beauty Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:575
+#: nebulae/default/names.dat:587
 msgid "The Southern Butterfly"
 msgstr ""
 
-#: nebulae/default/names.dat:576
+#: nebulae/default/names.dat:588
 msgid "Coma B"
 msgstr ""
 
-#: nebulae/default/names.dat:578
+#: nebulae/default/names.dat:590
 msgid "The Tweezers Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:580
+#: nebulae/default/names.dat:592
 msgid "Waterbug Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:581
+#: nebulae/default/names.dat:593
 msgid "NGC 5044 group"
 msgstr ""
 
-#: nebulae/default/names.dat:582
+#: nebulae/default/names.dat:594
 msgid "Sunflower Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:583
+#: nebulae/default/names.dat:595
 msgid "Iota's Ghost"
 msgstr ""
 
-#: nebulae/default/names.dat:584
+#: nebulae/default/names.dat:596
 msgid "Centaurus A"
 msgstr ""
 
-#: nebulae/default/names.dat:585
+#: nebulae/default/names.dat:597
 msgid "The Hamburger Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:586
+#: nebulae/default/names.dat:598
 msgid "ω Cen Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:587
+#: nebulae/default/names.dat:599
 msgid "Spiral Planetary Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:588 nebulae/default/names.dat:594
+#: nebulae/default/names.dat:600 nebulae/default/names.dat:606
 msgid "Whirlpool Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:589
+#: nebulae/default/names.dat:601
 msgid "Question Mark Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:590
+#: nebulae/default/names.dat:602
 msgid "Rosse's Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:591
+#: nebulae/default/names.dat:603
 msgid "Spiral Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:592
+#: nebulae/default/names.dat:604
 msgid "Whirlpool Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:593
+#: nebulae/default/names.dat:605
 msgid "M51B"
 msgstr ""
 
-#: nebulae/default/names.dat:595 nebulae/default/names.dat:596
+#: nebulae/default/names.dat:607 nebulae/default/names.dat:608
 msgid "Keenan's System"
 msgstr ""
 
-#: nebulae/default/names.dat:598
+#: nebulae/default/names.dat:610
 msgid "Thousand Rubies Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:599 nebulae/default/names.dat:601
-#: nebulae/default/names.dat:909
+#: nebulae/default/names.dat:611 nebulae/default/names.dat:613
+#: nebulae/default/names.dat:927
 msgid "Seashell Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:602
+#: nebulae/default/names.dat:614
 msgid "NGC 5353 group"
 msgstr ""
 
-#: nebulae/default/names.dat:603 nebulae/default/names.dat:604
+#: nebulae/default/names.dat:615 nebulae/default/names.dat:616
 msgid "The Heron Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:605
+#: nebulae/default/names.dat:617
 msgid "NGC 5416 group"
 msgstr ""
 
-#: nebulae/default/names.dat:607
+#: nebulae/default/names.dat:619
 msgid "Snowglobe Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:608 nebulae/default/names.dat:618
+#: nebulae/default/names.dat:620 nebulae/default/names.dat:630
 msgid "Ghost Globular Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:609
+#: nebulae/default/names.dat:621
 msgid "Dracula Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:610
+#: nebulae/default/names.dat:622
 msgid "NGC 5629 group"
 msgstr ""
 
-#: nebulae/default/names.dat:611
+#: nebulae/default/names.dat:623
 msgid "Gypsy Moth Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:612
+#: nebulae/default/names.dat:624
 msgid "Blade and Pearl Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:613
+#: nebulae/default/names.dat:625
 msgid "The Mini Sombrero Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:615
+#: nebulae/default/names.dat:627
 msgid "Fool's Gold Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:616
+#: nebulae/default/names.dat:628
 msgid "Ghost of Uranus"
 msgstr ""
 
-#: nebulae/default/names.dat:617
+#: nebulae/default/names.dat:629
 msgid "Fath 703"
 msgstr ""
 
-#: nebulae/default/names.dat:619
+#: nebulae/default/names.dat:631
 msgid "Rose Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:621
+#: nebulae/default/names.dat:633
 msgid "Splinter Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:622
+#: nebulae/default/names.dat:634
 msgid "Cat Scratch Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:623
+#: nebulae/default/names.dat:635
 msgid "Knife Edge Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:624
+#: nebulae/default/names.dat:636
 msgid "Seyfert's Sextet"
 msgstr ""
 
-#: nebulae/default/names.dat:625
+#: nebulae/default/names.dat:637
 msgid "Seyfert's Quintet"
 msgstr ""
 
-#: nebulae/default/names.dat:626
+#: nebulae/default/names.dat:638
 msgid "Serpens Sextet"
 msgstr ""
 
-#: nebulae/default/names.dat:627
+#: nebulae/default/names.dat:639
 msgid "S Nor Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:628
+#: nebulae/default/names.dat:640
 msgid "Blinking Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:629
+#: nebulae/default/names.dat:641
 msgid "Crab Globular Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:630
+#: nebulae/default/names.dat:642
 msgid "Spider Globular Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:631
+#: nebulae/default/names.dat:643
 msgid "Little Pincushion"
 msgstr ""
 
-#: nebulae/default/names.dat:632
+#: nebulae/default/names.dat:644
 msgid "The Crucifix Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:633
+#: nebulae/default/names.dat:645
 msgid "Rim Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:634
+#: nebulae/default/names.dat:646
 msgid "Dragons of Ara"
 msgstr ""
 
-#: nebulae/default/names.dat:635
+#: nebulae/default/names.dat:647
 msgid "μ Normae Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:636
+#: nebulae/default/names.dat:648
 msgid "Great Star Cluster in Hercules"
 msgstr ""
 
-#: nebulae/default/names.dat:637
+#: nebulae/default/names.dat:649
 msgid "Hercules Globular Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:638
+#: nebulae/default/names.dat:650
 msgid "Great Globular Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:639
+#: nebulae/default/names.dat:651
 msgid "Turtle Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:640
+#: nebulae/default/names.dat:652
 msgid "Gumball Globular Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:641
+#: nebulae/default/names.dat:653
 msgid "Prize Comet Globular Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:642
+#: nebulae/default/names.dat:654
 msgid "False Comet Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:643
+#: nebulae/default/names.dat:655
 msgid "Northern Jewel Box Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:644
+#: nebulae/default/names.dat:656
 msgid "Table of Scorpius Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:645
+#: nebulae/default/names.dat:657
 msgid "Crocodile Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:646
+#: nebulae/default/names.dat:658
 msgid "Flickering Globular Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:647
+#: nebulae/default/names.dat:659
 msgid "Moth Wing Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:648
+#: nebulae/default/names.dat:660
 msgid "Bug Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:650 nebulae/default/names.dat:667
+#: nebulae/default/names.dat:662 nebulae/default/names.dat:680
 msgid "Box Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:651
+#: nebulae/default/names.dat:663
 msgid "Exclamation Mark Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:652
+#: nebulae/default/names.dat:664
 msgid "The Shoeprint Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:653
+#: nebulae/default/names.dat:665
 msgid "Cat's Paw Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:654
+#: nebulae/default/names.dat:667
 msgid "Cheerio Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:655 nebulae/default/names.dat:700
+#: nebulae/default/names.dat:668 nebulae/default/names.dat:713
 msgid "Lobster Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:656
+#: nebulae/default/names.dat:669
 msgid "War and Peace Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:657
+#: nebulae/default/names.dat:670
 msgid "Little Ghost Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:658
+#: nebulae/default/names.dat:671
 msgid "Ghost of Mars Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:659
+#: nebulae/default/names.dat:672
 msgid "Tonantzintla 1"
 msgstr ""
 
-#: nebulae/default/names.dat:660
+#: nebulae/default/names.dat:673
 msgid "Ara Globular Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:661
+#: nebulae/default/names.dat:674
 msgid "Phantom Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:662
+#: nebulae/default/names.dat:675
 msgid "Long John Silver Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:664
+#: nebulae/default/names.dat:677
 msgid "Splendors of the Heavens"
 msgstr ""
 
-#: nebulae/default/names.dat:665
+#: nebulae/default/names.dat:678
 msgid "Silver Nugget Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:666 nebulae/default/names.dat:741
+#: nebulae/default/names.dat:679 nebulae/default/names.dat:753
 msgid "Little Gem Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:668
+#: nebulae/default/names.dat:681
 msgid "Coffin Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:669
+#: nebulae/default/names.dat:682
 msgid "Tom Thumb Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:670
+#: nebulae/default/names.dat:683
 msgid "Ptolemy's Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:671
+#: nebulae/default/names.dat:684
 msgid "Lost in Space Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:672
+#: nebulae/default/names.dat:685
 msgid "Trifid Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:673
+#: nebulae/default/names.dat:686
 msgid "Dead Man's Chest Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:674
+#: nebulae/default/names.dat:687
 msgid "Castaway Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:675 nebulae/default/names.dat:930
+#: nebulae/default/names.dat:688 nebulae/default/names.dat:951
 msgid "Lagoon Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:677
+#: nebulae/default/names.dat:690
 msgid "Herschel 36"
 msgstr ""
 
-#: nebulae/default/names.dat:678
+#: nebulae/default/names.dat:691
 msgid "Hourglass Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:679
+#: nebulae/default/names.dat:692
 msgid "Webb's Cross"
 msgstr ""
 
-#: nebulae/default/names.dat:680
+#: nebulae/default/names.dat:693
 msgid "Red spider Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:681
+#: nebulae/default/names.dat:694
 msgid "Cacciatore Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:682
+#: nebulae/default/names.dat:695
 msgid "Cat's Eye Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:683 nebulae/default/names.dat:819
+#: nebulae/default/names.dat:696 nebulae/default/names.dat:832
 msgid "Sunflower Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:684
+#: nebulae/default/names.dat:697
 msgid "Snail Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:686
+#: nebulae/default/names.dat:699
 msgid "Chinese Dragon Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:688
+#: nebulae/default/names.dat:701
 msgid "Blue Racquetball Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:689
+#: nebulae/default/names.dat:702
 msgid "Emerald Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:690
+#: nebulae/default/names.dat:703
 msgid "Turquoise Orb Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:691
+#: nebulae/default/names.dat:704
 msgid "Emerald Eye Planetary Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:692
+#: nebulae/default/names.dat:705
 msgid "Planet Krypton Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:693
+#: nebulae/default/names.dat:706 nebulae/default/names.dat:938
 msgid "Eagle Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:694
+#: nebulae/default/names.dat:707
 msgid "Star Queen Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:695
+#: nebulae/default/names.dat:708
 msgid "Black Swan Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:696
+#: nebulae/default/names.dat:709
 msgid "Omega Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:697
+#: nebulae/default/names.dat:710
 msgid "Swan Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:698
+#: nebulae/default/names.dat:711
 msgid "Horseshoe Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:699
+#: nebulae/default/names.dat:712
 msgid "Checkmark Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:701 nebulae/default/names.dat:702
+#: nebulae/default/names.dat:714 nebulae/default/names.dat:715
 msgid "Edward's Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:703
+#: nebulae/default/names.dat:716
 msgid "Tweedledum Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:704
+#: nebulae/default/names.dat:717
 msgid "Captain Hook Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:705
+#: nebulae/default/names.dat:718
 msgid "Wasp-Waist Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:706
+#: nebulae/default/names.dat:719
 msgid "Tadpole Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:707
+#: nebulae/default/names.dat:720
 msgid "Great Sagittarius Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:708
-msgid "Crackerjack Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:709
+#: nebulae/default/names.dat:721
 msgid "Santa's Sleigh Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:710
+#: nebulae/default/names.dat:722
 msgid "Teacup Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:711
+#: nebulae/default/names.dat:723
 msgid "Wild Duck Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:712
+#: nebulae/default/names.dat:724
 msgid "July Salt-and-Pepper Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:713
+#: nebulae/default/names.dat:725
 msgid "Scutum Salt-and-Pepper Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:714
+#: nebulae/default/names.dat:726
 msgid "Flying Unicorn Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:715
+#: nebulae/default/names.dat:727
 msgid "Ring Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:716
+#: nebulae/default/names.dat:728
 msgid "Annular Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:717
+#: nebulae/default/names.dat:729
 msgid "Chandelier Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:718
+#: nebulae/default/names.dat:730
 msgid "R CrA Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:719
+#: nebulae/default/names.dat:731
 msgid "Phantom Streak Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:720
+#: nebulae/default/names.dat:732
 msgid "Bird's Head"
 msgstr ""
 
-#: nebulae/default/names.dat:721
+#: nebulae/default/names.dat:733
 msgid "Dandelion Puffball Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:722
+#: nebulae/default/names.dat:734
 msgid "Glowing Eye Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:723
+#: nebulae/default/names.dat:735
 msgid "Pavo Globular Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:724
+#: nebulae/default/names.dat:736
 msgid "The Starfish"
 msgstr ""
 
-#: nebulae/default/names.dat:725
+#: nebulae/default/names.dat:737
 msgid "The Windmill"
 msgstr ""
 
-#: nebulae/default/names.dat:726 nebulae/default/names.dat:727
+#: nebulae/default/names.dat:738 nebulae/default/names.dat:739
 msgid "Possible Binary Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:728
+#: nebulae/default/names.dat:740
 msgid "Pentagon"
 msgstr ""
 
-#: nebulae/default/names.dat:729
+#: nebulae/default/names.dat:741
 msgid "Son of M76"
 msgstr ""
 
-#: nebulae/default/names.dat:730
-msgid "Ghost of the Moon Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:731
-msgid "The Snowglobe"
-msgstr ""
-
-#: nebulae/default/names.dat:732
-msgid "Eagle's nest"
-msgstr ""
-
-#: nebulae/default/names.dat:733
-msgid "Incredible Shrinking Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:734 nebulae/default/names.dat:848
-msgid "Snowball Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:735
-msgid "The Summer Rose Star"
-msgstr ""
-
-#: nebulae/default/names.dat:736
-msgid "Specter Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:737
-msgid "Hole in a Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:738
-msgid "Nefertiti's headpiece"
-msgstr ""
-
-#: nebulae/default/names.dat:739
-msgid "Smoke Ring"
-msgstr ""
-
-#: nebulae/default/names.dat:740
-msgid "The Reliquary"
-msgstr ""
-
 #: nebulae/default/names.dat:742
-msgid "Green Mars Nebula"
+msgid "Snowglobe Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:743
-msgid "The Foxhead Cluster"
+msgid "Ghost of the Moon Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:744
-msgid "Octopus Cluster"
+msgid "Eagle's nest"
 msgstr ""
 
 #: nebulae/default/names.dat:745
-msgid "Barnard's Galaxy"
+msgid "Incredible Shrinking Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:746
-msgid "Hubble X"
+#: nebulae/default/names.dat:746 nebulae/default/names.dat:861
+msgid "Snowball Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:747
-msgid "Blinking Planetary Nebula"
+msgid "The Summer Rose Star"
 msgstr ""
 
 #: nebulae/default/names.dat:748
-msgid "Poodle Cluster"
+msgid "Specter Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:749
-msgid "Angelfish Cluster"
+msgid "Hole in a Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:750
-msgid "Arrowhead Cluster"
+msgid "Nefertiti's headpiece"
 msgstr ""
 
 #: nebulae/default/names.dat:751
-msgid "Klemola 30"
+msgid "Smoke Ring"
 msgstr ""
 
 #: nebulae/default/names.dat:752
-msgid "Dumbbell Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:753
-msgid "Diabolo Nebula"
+msgid "The Reliquary"
 msgstr ""
 
 #: nebulae/default/names.dat:754
-msgid "Apple Core Nebula"
+msgid "Green Mars Nebula"
+msgstr ""
+
+#: nebulae/default/names.dat:755
+msgid "The Foxhead Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:756
-msgid "Frigate (Pirate) Bird Cluster"
+msgid "Octopus Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:757
-msgid "Telescopium Cluster"
+msgid "Barnard's Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:758
-msgid "Condor Galaxy"
+msgid "Hubble X"
 msgstr ""
 
 #: nebulae/default/names.dat:759
-msgid "20 Vulpeculae Cluster"
+msgid "Blinking Planetary Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:760
-msgid "Crescent Nebula"
+msgid "Poodle Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:761
-msgid "Ear Nebula"
+msgid "Angelfish Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:762
-msgid "Little Ring Nebula"
+msgid "Arrowhead Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:763
-msgid "Diamond Ring Nebula"
+msgid "Klemola 30"
 msgstr ""
 
 #: nebulae/default/names.dat:764
-msgid "Blue Flash Nebula"
+msgid "Dumbbell Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:765
-msgid "Caged Spirit Nebula"
+msgid "Diabolo Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:766
-msgid "Giant Behemoth Galaxy"
-msgstr ""
-
-#: nebulae/default/names.dat:767
-msgid "The Inchworm Cluster"
+msgid "Apple Core Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:768
-msgid "The Rocking Horse Cluster"
+msgid "Frigate (Pirate) Bird Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:769
-msgid "Cooling Tower Cluster"
+msgid "Telescopium Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:770
-msgid "Little Sisters"
+msgid "Condor Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:771
-msgid "Ghost Bush Cluster"
+msgid "20 Vulpeculae Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:772
-msgid "Flying Geese Cluster"
+msgid "Crescent Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:773
-msgid "Silk Fan Cluster"
+msgid "Ear Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:774
-msgid "Mothra Cluster"
+msgid "Little Ring Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:775
-msgid "Fireworks Galaxy"
+msgid "Diamond Ring Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:776
-msgid "Filamentary Nebula"
+msgid "Blue Flash Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:777
-msgid "West Veil Nebula"
+msgid "Caged Spirit Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:778
-msgid "Cirrus Nebula"
+msgid "Giant Behemoth Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:779
-msgid "Witch's Broom Nebula"
+msgid "The Inchworm Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:780 nebulae/default/names.dat:784
-#: nebulae/default/names.dat:786 nebulae/default/names.dat:788
-#: nebulae/default/names.dat:1012
-msgid "Veil Nebula"
+#: nebulae/default/names.dat:780
+msgid "The Rocking Horse Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:781
+msgid "Cooling Tower Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:782
-msgid "Fleming's Triangular Wisp"
+msgid "Little Sisters"
 msgstr ""
 
 #: nebulae/default/names.dat:783
-msgid "Pickering's Triangle"
+msgid "Ghost Bush Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:785 nebulae/default/names.dat:789
-msgid "East Veil Nebula"
+#: nebulae/default/names.dat:784
+msgid "Flying Geese Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:785
+msgid "Silk Fan Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:786
+msgid "Mothra Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:787
-msgid "Network Nebula"
+msgid "Fireworks Galaxy"
+msgstr ""
+
+#: nebulae/default/names.dat:788
+msgid "Filamentary Nebula"
+msgstr ""
+
+#: nebulae/default/names.dat:789
+msgid "West Veil Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:790
-msgid "Bird's Nest"
+msgid "Cirrus Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:791
-msgid "North America Nebula"
+msgid "Witch's Broom Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:792
-msgid "America Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:793
-msgid "Fetus Nebula"
+#: nebulae/default/names.dat:792 nebulae/default/names.dat:796
+#: nebulae/default/names.dat:798 nebulae/default/names.dat:800
+#: nebulae/default/names.dat:1037
+msgid "Veil Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:794
-msgid "Coat Button Nebula"
+msgid "Fleming's Triangular Wisp"
 msgstr ""
 
 #: nebulae/default/names.dat:795
-msgid "Saturn Nebula"
+msgid "Pickering's Triangle"
 msgstr ""
 
-#: nebulae/default/names.dat:796
-msgid "Iris Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:797
-msgid "Cheeseburger Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:798 nebulae/default/names.dat:1002
-msgid "Burnham's Nebula"
+#: nebulae/default/names.dat:797 nebulae/default/names.dat:801
+msgid "East Veil Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:799
-msgid "Jewel Bug Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:800
-msgid "Pink Pillow Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:801
-msgid "Magic Carpet Nebula"
+msgid "Network Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:802
-msgid "Green Rectangle Nebula"
+msgid "Bird's Nest"
 msgstr ""
 
 #: nebulae/default/names.dat:803
-msgid "Sugar Pops Nebula"
+msgid "North America Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:804
-msgid "Peek-a-Boo Nebula"
+msgid "America Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:805
-msgid "Pegasus Cluster"
+msgid "Fetus Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:806
-msgid "Great Pegasus Cluster"
+msgid "Coat Button Nebula"
+msgstr ""
+
+#: nebulae/default/names.dat:807
+msgid "Saturn Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:808
-msgid "Jellyfish Cluster"
+msgid "Iris Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:809
-msgid "Small Cluster Nebula"
+msgid "Cheeseburger Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:810
-msgid "NGC 7129 IR Cluster"
+#: nebulae/default/names.dat:810 nebulae/default/names.dat:1027
+msgid "Burnham's Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:811
-msgid "Cosmic Rosebud"
+msgid "Jewel Bug Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:812
-msgid "Swimming Alligator Cluster"
+msgid "Pink Pillow Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:813
-msgid "Bruce Lee Cluster"
+msgid "Magic Carpet Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:814
-msgid "Star Lizard Cluster"
+msgid "Green Rectangle Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:815
-msgid "Drunken Lizard Cluster"
+msgid "Sugar Pops Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:816
-msgid "Atoms for Peace Galaxy"
+msgid "Peek-a-Boo Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:817
-msgid "Helix Nebula"
+msgid "Pegasus Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:818
-msgid "Helical Nebula"
+msgid "Great Pegasus Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:820 nebulae/default/names.dat:821
-#: nebulae/default/names.dat:822 nebulae/default/names.dat:823
-msgid "Stephan's Quintet"
+#: nebulae/default/names.dat:821
+msgid "Jellyfish Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:822
+msgid "Small Cluster Nebula"
+msgstr ""
+
+#: nebulae/default/names.dat:823
+msgid "NGC 7129 IR Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:824
-msgid "Deer Lick Group"
+msgid "Cosmic Rosebud"
 msgstr ""
 
 #: nebulae/default/names.dat:825
-msgid "The Wizard Nebula"
+msgid "Swimming Alligator Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:826
-msgid "Harry Potter and the Golden Snitch"
+msgid "Bruce Lee Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:827
-msgid "NGC 7385 group"
+msgid "Star Lizard Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:828
-msgid "Grand Design Galaxy"
+msgid "Drunken Lizard Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:829
-msgid "Propeller Galaxy"
+msgid "Atoms for Peace Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:830
-msgid "Superman Galaxy"
+msgid "Helix Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:831
-msgid "The Dormouse Cluster"
+msgid "Helical Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:832
-msgid "The Arrowhead Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:833
-msgid "Northern Lagoon Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:834
-msgid "Brain Nebula"
-msgstr ""
-
+#: nebulae/default/names.dat:833 nebulae/default/names.dat:834
 #: nebulae/default/names.dat:835 nebulae/default/names.dat:836
-#: nebulae/default/names.dat:838 nebulae/default/names.dat:840
-msgid "Grus Quartet"
+msgid "Stephan's Quintet"
 msgstr ""
 
-#: nebulae/default/names.dat:837 nebulae/default/names.dat:839
+#: nebulae/default/names.dat:837
+msgid "Deer Lick Group"
+msgstr ""
+
+#: nebulae/default/names.dat:838
+msgid "The Wizard Nebula"
+msgstr ""
+
+#: nebulae/default/names.dat:839
+msgid "Harry Potter and the Golden Snitch"
+msgstr ""
+
+#: nebulae/default/names.dat:840
+msgid "NGC 7385 group"
+msgstr ""
+
 #: nebulae/default/names.dat:841
-msgid "Grus Triplet"
+msgid "Grand Design Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:842
-msgid "Bubble Nebula"
+msgid "Propeller Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:843
-msgid "Cassiopeia Salt-and-Pepper Cluster"
+msgid "Superman Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:844
-msgid "October Salt-and-Pepper Cluster"
+msgid "The Dormouse Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:845
-msgid "The Scorpion Cluster"
+msgid "The Arrowhead Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:846
-msgid "Blue Snowball"
+msgid "Northern Lagoon Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:847
-msgid "Copeland's Blue Snowball"
+msgid "Brain Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:849
-msgid "Fried-egg Galaxy"
+#: nebulae/default/names.dat:848 nebulae/default/names.dat:849
+#: nebulae/default/names.dat:851 nebulae/default/names.dat:853
+msgid "Grus Quartet"
 msgstr ""
 
-#: nebulae/default/names.dat:850
-msgid "Caroline's Rose Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:851
-msgid "Ghost Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:852
-msgid "Star Mist Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:853
-msgid "Herschel's Spiral Cluster"
-msgstr ""
-
+#: nebulae/default/names.dat:850 nebulae/default/names.dat:852
 #: nebulae/default/names.dat:854
-msgid "Crab Cluster"
+msgid "Grus Triplet"
 msgstr ""
 
 #: nebulae/default/names.dat:855
-msgid "Screaming Skull Cluster"
+msgid "Bubble Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:856
-msgid "The Widow's Web Cluster"
+msgid "Cassiopeia Salt-and-Pepper Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:857
-msgid "Bond's Galaxy"
+msgid "October Salt-and-Pepper Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:858
-msgid "The Little Sombrero Galaxy"
+msgid "The Scorpion Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:859
-msgid "Electric Arc Galaxy"
+msgid "Blue Snowball"
 msgstr ""
 
 #: nebulae/default/names.dat:860
-msgid "Starburst Galaxy"
+msgid "Copeland's Blue Snowball"
 msgstr ""
 
-#: nebulae/default/names.dat:861 nebulae/default/names.dat:862
-msgid "γ Cas Nebula"
+#: nebulae/default/names.dat:862
+msgid "Fried-egg Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:863
-msgid "Maffei 1 Group"
+msgid "Caroline's Rose Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:864
-msgid "ο Per Cloud"
+msgid "Ghost Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:865
-msgid "Gingrich 1"
+msgid "Star Mist Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:866
-msgid "Barnard's Merope Nebula"
+msgid "Herschel's Spiral Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:867
-msgid "Flaming Star Nebula"
+msgid "Crab Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:868
-msgid "Schaeberle's Flaming Star"
+msgid "Screaming Skull Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:869
-msgid "The Tadpoles"
+msgid "The Widow's Web Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:870
-msgid "Spider Nebula"
+msgid "Bond's Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:871
-msgid "Spirograph Nebula"
+msgid "The Little Sombrero Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:872
-msgid "Raspberry Nebula"
+msgid "Electric Arc Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:873
-msgid "Colored Contacts Nebula"
+msgid "Starburst Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:874
-msgid "Teardrop Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:875
-msgid "Jellyfish Nebula"
+#: nebulae/default/names.dat:874 nebulae/default/names.dat:875
+msgid "γ Cas Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:876
-msgid "Gemini A"
+msgid "Maffei 1 Group"
 msgstr ""
 
 #: nebulae/default/names.dat:877
-msgid "Papillon"
+msgid "ο Per Cloud"
 msgstr ""
 
-#: nebulae/default/names.dat:878 nebulae/default/names.dat:1318
-msgid "γ Cyg Nebula"
+#: nebulae/default/names.dat:878
+msgid "Gingrich 1"
 msgstr ""
 
 #: nebulae/default/names.dat:879
-msgid "ZW II 108 Group"
+msgid "Barnard's Merope Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:880
-msgid "Elephant's Trunk Nebula"
+msgid "Flaming Star Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:881
-msgid "The Misty Clover Cluster"
+msgid "Schaeberle's Flaming Star"
 msgstr ""
 
 #: nebulae/default/names.dat:882
-msgid "Fish Head Nebula"
+msgid "The Tadpoles"
 msgstr ""
 
 #: nebulae/default/names.dat:883
-msgid "Heart Nebula"
+msgid "Spider Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:884
-msgid "The Running Dog Nebula"
+msgid "Spirograph Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:885
-msgid "Valentine Nebula"
+msgid "Raspberry Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:886
-msgid "AFGL 333 Cloud"
+msgid "Colored Contacts Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:887
-msgid "Little Flame Nebula"
+msgid "Teardrop Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:888
-msgid "Witch Head Nebula"
+#: nebulae/default/names.dat:888 nebulae/default/names.dat:973
+msgid "Horsehead Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:889
-msgid "Dreyer's Nebula"
+msgid "Jellyfish Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:890
-msgid "IC 2199 group"
+msgid "Gemini A"
 msgstr ""
 
 #: nebulae/default/names.dat:891
-msgid "Toby Jug Nebula"
+msgid "Papillon"
 msgstr ""
 
-#: nebulae/default/names.dat:893
-msgid "ο Vel Cluster"
+#: nebulae/default/names.dat:892 nebulae/default/names.dat:1345
+msgid "γ Cyg Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:894
-msgid "Browning Galaxy"
+#: nebulae/default/names.dat:894 nebulae/default/names.dat:1039
+msgid "Sadr Region"
 msgstr ""
 
 #: nebulae/default/names.dat:895
-msgid "Strings of Pearl Cluster"
+msgid "ZW II 108 Group"
 msgstr ""
 
 #: nebulae/default/names.dat:896
-msgid "Hoopskirt Cluster"
+msgid "Elephant's Trunk Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:897
-msgid "Coddington's Nebula"
+msgid "The Misty Clover Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:898
-msgid "Southern Pleiades"
+msgid "Fish Head Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:899
-msgid "θ Car Cluster"
+msgid "Heart Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:900
-msgid "The Rip-Torn Cluster"
+msgid "The Running Dog Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:901
-msgid "Running Chicken Nebula"
+msgid "Valentine Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:902 nebulae/default/names.dat:903
-msgid "λ Cen Nebula"
+#: nebulae/default/names.dat:902
+msgid "AFGL 333 Cloud"
+msgstr ""
+
+#: nebulae/default/names.dat:903
+msgid "Little Flame Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:904
-msgid "Thackeray's Globules"
+msgid "Witch Head Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:905
-msgid "Lemon slice Nebula"
+msgid "Dreyer's Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:906
-msgid "Theoretician's Nebula"
+msgid "IC 2199 group"
 msgstr ""
 
 #: nebulae/default/names.dat:907
-msgid "Baby Eskimo Nebula"
+msgid "Toby Jug Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:908
-msgid "Sliced Lime Nebula"
+#: nebulae/default/names.dat:909
+msgid "ο Vel Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:910
-msgid "Retina Nebula"
+msgid "Browning Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:911
-msgid "Blue Horsehead Nebula"
+msgid "Strings of Pearl Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:912
-msgid "White-eyed Pea Nebula"
+msgid "Hoopskirt Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:913
-msgid "ρ Oph Nebula"
+msgid "Coddington's Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:914 nebulae/default/names.dat:1044
-msgid "Antares Nebula"
+#: nebulae/default/names.dat:914
+msgid "Southern Pleiades"
 msgstr ""
 
 #: nebulae/default/names.dat:915
-msgid "Prawn Nebula"
+msgid "θ Car Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:916
-msgid "Summer Beehive Cluster"
+msgid "The Rip-Torn Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:917
-msgid "Poseidon's Trident Cluster"
+msgid "Running Chicken Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:918
-msgid "Black Swallowtail Butterfly Cluster"
+#: nebulae/default/names.dat:918 nebulae/default/names.dat:919
+msgid "λ Cen Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:920
-msgid "Graff's Cluster"
+msgid "Thackeray's Globules"
 msgstr ""
 
-#: nebulae/default/names.dat:921
-msgid "Tweedledee Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:922
-msgid "Secret Garden Cluster"
+#: nebulae/default/names.dat:921 nebulae/default/names.dat:922
+#: nebulae/default/names.dat:1183 nebulae/default/names.dat:1184
+#: nebulae/default/names.dat:1185
+msgid "Zwicky's Triplet"
 msgstr ""
 
 #: nebulae/default/names.dat:923
-msgid "Shapley-Ames 5"
+msgid "Lemon slice Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:924
-msgid "P Cyg Cluster"
+msgid "Theoretician's Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:925 nebulae/default/names.dat:926
-msgid "Pelican Nebula"
+#: nebulae/default/names.dat:925
+msgid "Baby Eskimo Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:927 nebulae/default/names.dat:974
-msgid "Cocoon Nebula"
+#: nebulae/default/names.dat:926
+msgid "Sliced Lime Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:928
-msgid "Spare Tyre Nebula"
+msgid "Retina Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:929
-msgid "Southern Integral Sign"
+msgid "Blue Horsehead Nebula"
+msgstr ""
+
+#: nebulae/default/names.dat:930
+msgid "White-eyed Pea Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:931
-msgid "Hourglass Region"
+msgid "ρ Oph Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:932 nebulae/default/names.dat:1340
-msgid "Small Sagittarius Star Cloud"
+#: nebulae/default/names.dat:932 nebulae/default/names.dat:1069
+msgid "Antares Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:933
-msgid "Delle Caustiche"
+msgid "Prawn Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:934
-msgid "Winnecke 4"
+msgid "Summer Beehive Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:935
+msgid "Poseidon's Trident Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:936
+msgid "Black Swallowtail Butterfly Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:939
+msgid "Starqueen Nebula"
+msgstr ""
+
+#: nebulae/default/names.dat:940
+msgid "Sagittarius Star Cloud"
+msgstr ""
+
+#: nebulae/default/names.dat:941
+msgid "Graff's Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:942
+msgid "Tweedledee Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:943
+msgid "Secret Garden Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:944
+msgid "Shapley-Ames 5"
+msgstr ""
+
+#: nebulae/default/names.dat:945
+msgid "P Cyg Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:946 nebulae/default/names.dat:947
+msgid "Pelican Nebula"
+msgstr ""
+
+#: nebulae/default/names.dat:948 nebulae/default/names.dat:999
+msgid "Cocoon Nebula"
+msgstr ""
+
+#: nebulae/default/names.dat:949
+msgid "Spare Tyre Nebula"
+msgstr ""
+
+#: nebulae/default/names.dat:950
+msgid "Southern Integral Sign"
+msgstr ""
+
+#: nebulae/default/names.dat:952
+msgid "Hourglass Region"
+msgstr ""
+
+#: nebulae/default/names.dat:953 nebulae/default/names.dat:1367
+msgid "Small Sagittarius Star Cloud"
+msgstr ""
+
+#: nebulae/default/names.dat:954
+msgid "Delle Caustiche"
+msgstr ""
+
+#: nebulae/default/names.dat:955
+msgid "Winnecke 4"
+msgstr ""
+
+#: nebulae/default/names.dat:956
 #: skycultures/greek_leidenAratea/constellation_names.eng.fab:49
 #: skycultures/western_rey/star_names.fab:26
 msgid "Pleiades"
 msgstr ""
 
-#: nebulae/default/names.dat:936
+#: nebulae/default/names.dat:957
 msgid "Seven Sisters"
 msgstr ""
 
-#: nebulae/default/names.dat:937
+#: nebulae/default/names.dat:958
 msgid "Subaru"
 msgstr ""
 
-#: nebulae/default/names.dat:938
+#: nebulae/default/names.dat:959
 msgid "α Per Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:939
+#: nebulae/default/names.dat:960
 msgid "α Per Moving Group"
 msgstr ""
 
-#: nebulae/default/names.dat:940
+#: nebulae/default/names.dat:961
 msgid "Little Cloud of Pirates"
 msgstr ""
 
-#: nebulae/default/names.dat:941
+#: nebulae/default/names.dat:962
 msgid "α Per Association"
 msgstr ""
 
-#: nebulae/default/names.dat:942
+#: nebulae/default/names.dat:963
 msgid "Wilk's Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:943
+#: nebulae/default/names.dat:964
 msgid "Coma Berenices Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:944
+#: nebulae/default/names.dat:965
 msgid "Ariadne's Hair"
 msgstr ""
 
-#: nebulae/default/names.dat:945
+#: nebulae/default/names.dat:966
 msgid "Thisbe's Veil"
 msgstr ""
 
-#: nebulae/default/names.dat:946
+#: nebulae/default/names.dat:967
 msgid "Cobweb Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:947
+#: nebulae/default/names.dat:968
 msgid "Flying Witch"
 msgstr ""
 
-#: nebulae/default/names.dat:948
+#: nebulae/default/names.dat:969
 msgid "Black Bart's Hair"
 msgstr ""
 
-#: nebulae/default/names.dat:949
+#: nebulae/default/names.dat:970
 msgid "Taurus Poniatovii Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:950
+#: nebulae/default/names.dat:971
 msgid "Poniatowski's Bull Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:951
+#: nebulae/default/names.dat:972
 msgid "Taurus Dark Cloud Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:952
-msgid "Horsehead Nebula"
+#: nebulae/default/names.dat:974
+msgid "Sink Hole"
 msgstr ""
 
-#: nebulae/default/names.dat:953 nebulae/default/names.dat:954
-#: nebulae/default/names.dat:955 nebulae/default/names.dat:956
+#: nebulae/default/names.dat:975 nebulae/default/names.dat:976
+#: nebulae/default/names.dat:977 nebulae/default/names.dat:978
 msgid "Pipe (stem)"
 msgstr ""
 
-#: nebulae/default/names.dat:957 nebulae/default/names.dat:962
+#: nebulae/default/names.dat:979 nebulae/default/names.dat:984
 msgid "Pipe Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:958 nebulae/default/names.dat:963
+#: nebulae/default/names.dat:980 nebulae/default/names.dat:985
 msgid "Ink Spot Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:959
+#: nebulae/default/names.dat:981
 msgid "Snake Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:960
+#: nebulae/default/names.dat:982
 msgid "The S Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:961
+#: nebulae/default/names.dat:983
 msgid "Pipe (bowl)"
 msgstr ""
 
-#: nebulae/default/names.dat:964
+#: nebulae/default/names.dat:986
 msgid "Herschel's Hole in the Heavens"
 msgstr ""
 
-#: nebulae/default/names.dat:965
+#: nebulae/default/names.dat:987
 msgid "Parrot's Head Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:966
+#: nebulae/default/names.dat:988
 msgid "Black Hole Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:967 nebulae/default/names.dat:970
-msgid "E Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:968 nebulae/default/names.dat:972
-msgid "Barnard's E Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:969 nebulae/default/names.dat:971
-msgid "Triple Cave Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:973
-msgid "Fish on the platter nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:975
-msgid "Northern Streamer"
-msgstr ""
-
-#: nebulae/default/names.dat:976
-msgid "Dark Wolf Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:977
-msgid "Hyades"
-msgstr ""
-
-#: nebulae/default/names.dat:978
-msgid "Coalsack Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:979
-msgid "Coal Sack"
-msgstr ""
-
-#: nebulae/default/names.dat:980
-msgid "Orion Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:981
-msgid "λ Ori Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:982
-msgid "Aunt Margaret's Mirror"
-msgstr ""
-
-#: nebulae/default/names.dat:983
-msgid "Orion Belt Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:984
-msgid "Serpentine Column"
-msgstr ""
-
-#: nebulae/default/names.dat:985
-msgid "9-12 Geminorum Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:986
-msgid "π Pup Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:987
-msgid "Tuft in the Tail of the Dog Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:988
-msgid "Markarian 18 Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:989
-msgid "η Car Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:990
-msgid "Ursa Major Cluster"
+#: nebulae/default/names.dat:989 nebulae/default/names.dat:990
+msgid "Black Spot Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:991
-msgid "Ursa Major Moving Group"
+msgid "Black Lizard Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:992
-msgid "Antares Cluster"
+#: nebulae/default/names.dat:992 nebulae/default/names.dat:995
+msgid "E Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:993
-msgid "Coathanger"
+#: nebulae/default/names.dat:993 nebulae/default/names.dat:997
+msgid "Barnard's E Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:994
-msgid "Al Sufi's Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:995
-msgid "Brocchi's Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:996
-msgid "Al-Sufi's Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:997
-msgid "The Snail"
+#: nebulae/default/names.dat:994 nebulae/default/names.dat:996
+msgid "Triple Cave Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:998
-msgid "Loch Ness Moster Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:999
-msgid "The Queen's Reflection"
+msgid "Fish on the platter nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1000
-msgid "Electra Nebula"
+msgid "Northern Streamer"
 msgstr ""
 
 #: nebulae/default/names.dat:1001
-msgid "Atlas Nebula"
+msgid "Dark Wolf Nebula"
+msgstr ""
+
+#: nebulae/default/names.dat:1002
+msgid "Hyades"
 msgstr ""
 
 #: nebulae/default/names.dat:1003
-msgid "T Tauri Nebula"
+msgid "Coalsack Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1004
-msgid "Orion Loop Nebula"
+msgid "Coal Sack"
 msgstr ""
 
 #: nebulae/default/names.dat:1005
-msgid "R Aqr Nebula"
+msgid "Orion Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:1006
-msgid "Green Ring Nebula"
+msgid "λ Ori Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:1007
+msgid "Aunt Margaret's Mirror"
 msgstr ""
 
 #: nebulae/default/names.dat:1008
-msgid "Little Cocoon Nebula"
+msgid "Orion Belt Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:1009 nebulae/default/names.dat:1343
-msgid "Cygnus Star Cloud"
+#: nebulae/default/names.dat:1009
+msgid "Serpentine Column"
 msgstr ""
 
 #: nebulae/default/names.dat:1010
-msgid "Tulip Nebula"
+msgid "9-12 Geminorum Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:1011
-msgid "Cygnus Loop"
+msgid "π Pup Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:1012
+msgid "Tuft in the Tail of the Dog Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:1013
-msgid "Celestial Snow Angel"
+msgid "Markarian 18 Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:1014
-msgid "Sadr Region"
+msgid "η Car Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:1015
-msgid "Flying Dragon Nebula"
+msgid "Ursa Major Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:1016
-msgid "Flying Bat Nebula"
+msgid "Ursa Major Moving Group"
 msgstr ""
 
 #: nebulae/default/names.dat:1017
-msgid "Lion Nebula"
+msgid "Antares Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:1018 nebulae/default/names.dat:1049
-msgid "Cave Nebula"
+#: nebulae/default/names.dat:1018
+msgid "Coathanger"
 msgstr ""
 
 #: nebulae/default/names.dat:1019
-msgid "Lobster Claw Nebula"
+msgid "Al Sufi's Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:1020
-msgid "Californietto Nebula"
+msgid "Brocchi's Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:1021
-msgid "Dreyer's Object"
+msgid "Al-Sufi's Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1022
-msgid "Little Rosette Nebula"
+msgid "The Snail"
 msgstr ""
 
 #: nebulae/default/names.dat:1023
-msgid "Soul Nebula"
+msgid "Loch Ness Moster Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:1024
-msgid "Second Closest Planetary"
+msgid "The Queen's Reflection"
 msgstr ""
 
 #: nebulae/default/names.dat:1025
-msgid "Spaghetti Nebula"
+msgid "Electra Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1026
-msgid "Simeis 147"
-msgstr ""
-
-#: nebulae/default/names.dat:1027
-msgid "Lower's Nebula"
+msgid "Atlas Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1028
-msgid "λ Ori Molecular Ring"
+msgid "T Tauri Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1029
-msgid "Angelfish Nebula"
+msgid "Orion Loop Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1030
-msgid "Orion's Head Nebula"
+msgid "R Aqr Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1031
-msgid "North Orion Bubble"
+msgid "Green Ring Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:1032
-msgid "Medusa Nebula"
+#: nebulae/default/names.dat:1033
+msgid "Little Cocoon Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:1034
-msgid "Barnard's Loop"
+#: nebulae/default/names.dat:1034 nebulae/default/names.dat:1370
+msgid "Cygnus Star Cloud"
 msgstr ""
 
 #: nebulae/default/names.dat:1035
-msgid "Barnard's Arc"
+msgid "Tulip Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1036
-msgid "Seagull Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:1037
-msgid "Seagull's wings"
+msgid "Cygnus Loop"
 msgstr ""
 
 #: nebulae/default/names.dat:1038
-msgid "Snowman Nebula"
-msgstr ""
-
-#: nebulae/default/names.dat:1039
-msgid "Dolphin Nebula"
+msgid "Celestial Snow Angel"
 msgstr ""
 
 #: nebulae/default/names.dat:1040
-msgid "Dolphin Head Nebula"
+msgid "Flying Dragon Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1041
-msgid "Etched Hourglass Nebula"
+msgid "Flying Bat Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1042
-msgid "Engraved Hourglass Nebula"
+msgid "Lion Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:1043
-msgid "Dragon's Heart Nebula"
+#: nebulae/default/names.dat:1043 nebulae/default/names.dat:1075
+msgid "Cave Nebula"
+msgstr ""
+
+#: nebulae/default/names.dat:1044
+msgid "Lobster Claw Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1045
-msgid "Ghost Nebula"
+msgid "Californietto Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:1046 nebulae/default/names.dat:1047
-#: nebulae/default/names.dat:1056
-msgid "Dark Shark Nebula"
+#: nebulae/default/names.dat:1046
+msgid "Dreyer's Object"
+msgstr ""
+
+#: nebulae/default/names.dat:1047
+msgid "Little Rosette Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1048
-msgid "Gecko Nebula"
+msgid "Soul Nebula"
+msgstr ""
+
+#: nebulae/default/names.dat:1049
+msgid "Second Closest Planetary"
 msgstr ""
 
 #: nebulae/default/names.dat:1050
-msgid "Vulture Head Nebula"
+msgid "Spaghetti Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1051
-msgid "Baby Eagle Nebula"
+msgid "Simeis 147"
 msgstr ""
 
 #: nebulae/default/names.dat:1052
-msgid "Orion B"
+msgid "Lower's Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1053
-msgid "Coalman Nebula"
+msgid "λ Ori Molecular Ring"
 msgstr ""
 
 #: nebulae/default/names.dat:1054
-msgid "Northern Coalsack Nebula"
+msgid "Angelfish Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1055
-msgid "Gulf of Mexico Nebula"
+msgid "Orion's Head Nebula"
+msgstr ""
+
+#: nebulae/default/names.dat:1056
+msgid "North Orion Bubble"
 msgstr ""
 
 #: nebulae/default/names.dat:1057
-msgid "Kutner's Cloud"
+msgid "Medusa Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:1059 nebulae/default/names.dat:1061
-msgid "Taffy Galaxies"
+#: nebulae/default/names.dat:1059
+msgid "Barnard's Loop"
 msgstr ""
 
-#: nebulae/default/names.dat:1060 nebulae/default/names.dat:1062
-msgid "Taffy System"
+#: nebulae/default/names.dat:1060
+msgid "Barnard's Arc"
+msgstr ""
+
+#: nebulae/default/names.dat:1061
+msgid "Seagull Nebula"
+msgstr ""
+
+#: nebulae/default/names.dat:1062
+msgid "Seagull's wings"
 msgstr ""
 
 #: nebulae/default/names.dat:1063
-msgid "Wolf-Lundmark-Melotte Object (WLM)"
+msgid "Snowman Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1064
-msgid "Sculptor Dwarf Irregular Galaxy"
+msgid "Dolphin Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1065
-msgid "Andromeda III Dwarf Galaxy"
+msgid "Dolphin Head Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1066
-msgid "Cartwheel Galaxy"
+msgid "Etched Hourglass Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1067
-msgid "Cartwheel Ring Galaxy"
+msgid "Engraved Hourglass Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1068
-msgid "Zwicky's Ellipse"
-msgstr ""
-
-#: nebulae/default/names.dat:1069
-msgid "Exclamation Mark Galaxy"
+msgid "Dragon's Heart Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1070
-msgid "Andromeda I Dwarf Galaxy"
+msgid "Ghost Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:1071
-msgid "Burbidge Chain"
-msgstr ""
-
-#: nebulae/default/names.dat:1072
-msgid "Baade's Galaxy A"
+#: nebulae/default/names.dat:1071 nebulae/default/names.dat:1072
+#: nebulae/default/names.dat:1082
+msgid "Dark Shark Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1073
-msgid "Baade's Galaxy B"
+msgid "Wolf's Cave Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1074
-msgid "Sculptor Dwarf Galaxy"
-msgstr ""
-
-#: nebulae/default/names.dat:1075
-msgid "Sculptor System"
+msgid "Gecko Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1076
-msgid "Pisces Dwarf Galaxy"
+msgid "Vulture Head Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1077
-msgid "Pisces I"
+msgid "Baby Eagle Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1078
-msgid "Shapley-Ames 1"
+msgid "Orion B"
 msgstr ""
 
 #: nebulae/default/names.dat:1079
-msgid "Andromeda II"
+msgid "Coalman Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1080
-msgid "Andromeda II Dwarf Galaxy"
+msgid "Northern Coalsack Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1081
-msgid "White Rose Galaxy"
-msgstr ""
-
-#: nebulae/default/names.dat:1082
-msgid "Phoenix Dwarf Galaxy"
+msgid "Gulf of Mexico Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1083
-msgid "Schuster-West Cluster"
+msgid "Kutner's Cloud"
 msgstr ""
 
-#: nebulae/default/names.dat:1084
-msgid "Maffei 1"
+#: nebulae/default/names.dat:1085 nebulae/default/names.dat:1087
+msgid "Taffy Galaxies"
 msgstr ""
 
-#: nebulae/default/names.dat:1085
-msgid "Maffei I"
-msgstr ""
-
-#: nebulae/default/names.dat:1086
-msgid "Fornax Dwarf Galaxy"
-msgstr ""
-
-#: nebulae/default/names.dat:1087
-msgid "Fornax System"
-msgstr ""
-
-#: nebulae/default/names.dat:1088
-msgid "Maffei 2"
+#: nebulae/default/names.dat:1086 nebulae/default/names.dat:1088
+msgid "Taffy System"
 msgstr ""
 
 #: nebulae/default/names.dat:1089
-msgid "Maffei II"
+msgid "Wolf-Lundmark-Melotte Object (WLM)"
 msgstr ""
 
 #: nebulae/default/names.dat:1090
-msgid "Holmberg VI"
+msgid "Sculptor Dwarf Irregular Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1091
-msgid "E1 Cluster"
+msgid "Andromeda III Dwarf Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1092
-msgid "Schuster's Spiral Galaxy"
+msgid "Cartwheel Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1093
-msgid "Horologium Dwarf Galaxy"
+msgid "Cartwheel Ring Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1094
-msgid "Carafe Nebula"
+msgid "Zwicky's Ellipse"
 msgstr ""
 
 #: nebulae/default/names.dat:1095
-msgid "Large Magellanic Cloud"
+msgid "Exclamation Mark Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1096
-msgid "LMC"
+msgid "Andromeda I Dwarf Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1097
-msgid "Nubecula Major"
+msgid "Burbidge Chain"
 msgstr ""
 
 #: nebulae/default/names.dat:1098
-msgid "White Ox"
+msgid "Baade's Galaxy A"
 msgstr ""
 
 #: nebulae/default/names.dat:1099
-msgid "Orion Dwarf Galaxy"
+msgid "Baade's Galaxy B"
 msgstr ""
 
 #: nebulae/default/names.dat:1100
-msgid "Carina Dwarf Galaxy"
+msgid "Sculptor Dwarf Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1101
-msgid "Southern Ellipse"
+msgid "Sculptor System"
 msgstr ""
 
 #: nebulae/default/names.dat:1102
-msgid "Lindsay-Shapley Ring"
+msgid "Pisces Dwarf Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1103
-msgid "Graham A"
+msgid "Pisces I"
 msgstr ""
 
 #: nebulae/default/names.dat:1104
-msgid "Argo Dwarf Irregular Galaxy"
+msgid "Shapley-Ames 1"
 msgstr ""
 
 #: nebulae/default/names.dat:1105
-msgid "Integral Sign Galaxy"
+msgid "Andromeda II"
 msgstr ""
 
 #: nebulae/default/names.dat:1106
-msgid "Phoenix Galaxy"
+msgid "Andromeda II Dwarf Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1107
-msgid "Holmberg II"
+msgid "White Rose Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1108
-msgid "M81 Dwarf A"
+msgid "Phoenix Dwarf Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1109
-msgid "Holmberg III"
+msgid "Schuster-West Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:1110
-msgid "Grasshopper A"
+msgid "Maffei 1"
 msgstr ""
 
-#: nebulae/default/names.dat:1111 nebulae/default/names.dat:1255
-msgid "Hydra A"
+#: nebulae/default/names.dat:1111
+msgid "Maffei I"
 msgstr ""
 
 #: nebulae/default/names.dat:1112
-msgid "Holmberg I"
+msgid "Fornax Dwarf Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1113
-msgid "Holmberg IX"
+msgid "Fornax System"
 msgstr ""
 
 #: nebulae/default/names.dat:1114
-msgid "Arp Loop"
+msgid "Maffei 2"
 msgstr ""
 
 #: nebulae/default/names.dat:1115
-msgid "Sextans B"
+msgid "Maffei II"
 msgstr ""
 
 #: nebulae/default/names.dat:1116
-msgid "Revolver Galaxy"
+msgid "Holmberg VI"
+msgstr ""
+
+#: nebulae/default/names.dat:1117
+msgid "E1 Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:1118
-msgid "Antlia Dwarf Galaxy"
+msgid "Schuster's Spiral Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1119
-msgid "M81 Dwarf B"
+msgid "Horologium Dwarf Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1120
-msgid "Vela Ring Galaxy"
+msgid "Carafe Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1121
-msgid "Sextans A"
+msgid "Large Magellanic Cloud"
 msgstr ""
 
 #: nebulae/default/names.dat:1122
-msgid "Haro II"
+msgid "LMC"
 msgstr ""
 
 #: nebulae/default/names.dat:1123
-msgid "Spider Galaxy"
+msgid "Nubecula Major"
 msgstr ""
 
 #: nebulae/default/names.dat:1124
-msgid "Ant Galaxy"
+msgid "White Ox"
 msgstr ""
 
 #: nebulae/default/names.dat:1125
-msgid "Mayall's Object"
+msgid "Orion Dwarf Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1126
-msgid "Leo II Dwarf Galaxy"
+msgid "Carina Dwarf Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1127
-msgid "Leo B"
+msgid "Southern Ellipse"
 msgstr ""
 
 #: nebulae/default/names.dat:1128
-msgid "Harrington-Wilson #2"
+msgid "Lindsay-Shapley Ring"
 msgstr ""
 
 #: nebulae/default/names.dat:1129
-msgid "Arp's Galaxy"
+msgid "Graham A"
 msgstr ""
 
 #: nebulae/default/names.dat:1130
-msgid "A Flying Bird"
+msgid "Argo Dwarf Irregular Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:1131 nebulae/default/names.dat:1132
+#: nebulae/default/names.dat:1131
+msgid "Integral Sign Galaxy"
+msgstr ""
+
+#: nebulae/default/names.dat:1132
+msgid "Phoenix Galaxy"
+msgstr ""
+
 #: nebulae/default/names.dat:1133
-msgid "Wild's Triplet"
+msgid "Holmberg II"
 msgstr ""
 
 #: nebulae/default/names.dat:1134
-msgid "Syphon"
+msgid "M81 Dwarf A"
 msgstr ""
 
 #: nebulae/default/names.dat:1135
-msgid "Reinmuth 80"
+msgid "Holmberg III"
 msgstr ""
 
 #: nebulae/default/names.dat:1136
-msgid "Holmberg VII"
+msgid "Grasshopper A"
 msgstr ""
 
-#: nebulae/default/names.dat:1137
-msgid "Malin 1"
+#: nebulae/default/names.dat:1137 nebulae/default/names.dat:1282
+msgid "Hydra A"
+msgstr ""
+
+#: nebulae/default/names.dat:1138
+msgid "Holmberg I"
 msgstr ""
 
 #: nebulae/default/names.dat:1139
-msgid "Shapley-Ames 3"
+msgid "Holmberg IX"
 msgstr ""
 
 #: nebulae/default/names.dat:1140
-msgid "Shapley-Ames 4"
+msgid "Arp Loop"
 msgstr ""
 
 #: nebulae/default/names.dat:1141
-msgid "X Comae Galaxy"
+msgid "Sextans B"
 msgstr ""
 
 #: nebulae/default/names.dat:1142
-msgid "Imprint of a Foot Galaxy"
-msgstr ""
-
-#: nebulae/default/names.dat:1143
-msgid "Hardcastle's Galaxy"
+msgid "Revolver Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1144
-msgid "Hardcastle Nebula"
+msgid "Antlia Dwarf Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1145
-msgid "Holmberg VIII"
+msgid "M81 Dwarf B"
 msgstr ""
 
 #: nebulae/default/names.dat:1146
-msgid "Fourcade-Figueroa Object"
+msgid "Vela Ring Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1147
-msgid "Fourcade-Figueroa Galaxy"
+msgid "Sextans A"
 msgstr ""
 
 #: nebulae/default/names.dat:1148
-msgid "Holmberg V"
+msgid "Haro II"
 msgstr ""
 
 #: nebulae/default/names.dat:1149
-msgid "Holmberg IV"
+msgid "Spider Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1150
-msgid "The Dentist's Chair"
+msgid "Ant Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1151
-msgid "Circinus Galaxy"
+msgid "Mayall's Object"
 msgstr ""
 
 #: nebulae/default/names.dat:1152
-msgid "Segner's Wheel"
+msgid "Leo II Dwarf Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1153
-msgid "Ursa Minor Dwarf Galaxy"
+msgid "Leo B"
 msgstr ""
 
 #: nebulae/default/names.dat:1154
-msgid "Hoag's Object"
+msgid "Harrington-Wilson #2"
 msgstr ""
 
 #: nebulae/default/names.dat:1155
-msgid "Hooked Galaxy"
+msgid "Arp's Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1156
-msgid "Kathryn's Wheel"
+msgid "A Flying Bird"
 msgstr ""
 
 #: nebulae/default/names.dat:1157 nebulae/default/names.dat:1158
 #: nebulae/default/names.dat:1159
-msgid "Zwicky's Triplet"
+msgid "Wild's Triplet"
 msgstr ""
 
 #: nebulae/default/names.dat:1160
-msgid "Hercules A"
+msgid "Syphon"
 msgstr ""
 
 #: nebulae/default/names.dat:1161
-msgid "Goldfish Galaxy"
+msgid "Reinmuth 80"
 msgstr ""
 
 #: nebulae/default/names.dat:1162
-msgid "Beaver Galaxy"
+msgid "Holmberg VII"
 msgstr ""
 
 #: nebulae/default/names.dat:1163
-msgid "Bean Galaxy"
-msgstr ""
-
-#: nebulae/default/names.dat:1164
-msgid "Draco Dwarf Galaxy"
+msgid "Malin 1"
 msgstr ""
 
 #: nebulae/default/names.dat:1165
-msgid "The Bird"
+msgid "Shapley-Ames 3"
 msgstr ""
 
 #: nebulae/default/names.dat:1166
-msgid "Sagittarius Dwarf Galaxy"
+msgid "Shapley-Ames 4"
 msgstr ""
 
 #: nebulae/default/names.dat:1167
-msgid "Kowal's Object"
+msgid "X Comae Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1168
-msgid "Aquarius Dwarf Galaxy"
+msgid "Imprint of a Foot Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1169
-msgid "Cygnus A"
+msgid "Hardcastle's Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1170
-msgid "McLeish's Object"
+msgid "Hardcastle Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1171
-msgid "Shapley-Ames 6"
+msgid "Holmberg VIII"
 msgstr ""
 
 #: nebulae/default/names.dat:1172
-msgid "Kinman Dwarf Galaxy"
+msgid "Fourcade-Figueroa Object"
 msgstr ""
 
 #: nebulae/default/names.dat:1173
-msgid "Huchra's Lens"
+msgid "Fourcade-Figueroa Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1174
-msgid "Tucana Dwarf Galaxy"
+msgid "Holmberg V"
 msgstr ""
 
 #: nebulae/default/names.dat:1175
-msgid "South America Galaxy"
+msgid "Holmberg IV"
 msgstr ""
 
-#: nebulae/default/names.dat:1176 nebulae/default/names.dat:1197
-msgid "Pegasus Dwarf Galaxy"
+#: nebulae/default/names.dat:1176
+msgid "The Dentist's Chair"
 msgstr ""
 
 #: nebulae/default/names.dat:1177
-msgid "Barbon's Galaxy"
+msgid "Circinus Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:1178 nebulae/default/names.dat:1226
-msgid "Minkowski's Object"
+#: nebulae/default/names.dat:1178
+msgid "Segner's Wheel"
 msgstr ""
 
 #: nebulae/default/names.dat:1179
-msgid "Superantennae Galaxy"
+msgid "Ursa Minor Dwarf Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1180
-msgid "Malin II"
+msgid "Hoag's Object"
 msgstr ""
 
 #: nebulae/default/names.dat:1181
-msgid "Sextans Dwarf Spheroidal Galaxy"
+msgid "Hooked Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1182
-msgid "Padova 3"
-msgstr ""
-
-#: nebulae/default/names.dat:1183
-msgid "Mailyan 16"
-msgstr ""
-
-#: nebulae/default/names.dat:1184
-msgid "Cassiopeia 1"
-msgstr ""
-
-#: nebulae/default/names.dat:1185
-msgid "Cassiopeia 2"
+msgid "Kathryn's Wheel"
 msgstr ""
 
 #: nebulae/default/names.dat:1186
-msgid "Dwingeloo I"
+msgid "Hercules A"
 msgstr ""
 
 #: nebulae/default/names.dat:1187
-msgid "Speca Galaxy"
+msgid "Goldfish Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1188
-msgid "Sextans Ring"
+msgid "Beaver Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1189
-msgid "Ring Galaxy in Sextans"
+msgid "Bean Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1190
-msgid "Camelopardalis A"
+msgid "Draco Dwarf Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1191
-msgid "Camelopardalis B"
+msgid "The Bird"
 msgstr ""
 
 #: nebulae/default/names.dat:1192
-msgid "Burçin's Galaxy"
+msgid "Sagittarius Dwarf Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1193
-msgid "Beetle Galaxy"
+msgid "Kowal's Object"
 msgstr ""
 
 #: nebulae/default/names.dat:1194
-msgid "TIE Fighter Galaxy"
+msgid "Aquarius Dwarf Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1195
-msgid "Cassiopeia Dwarf Spheroidal Galaxy"
+msgid "Cygnus A"
 msgstr ""
 
 #: nebulae/default/names.dat:1196
-msgid "Andromeda VII"
+msgid "McLeish's Object"
+msgstr ""
+
+#: nebulae/default/names.dat:1197
+msgid "Shapley-Ames 6"
 msgstr ""
 
 #: nebulae/default/names.dat:1198
-msgid "Pegasus II"
+msgid "Kinman Dwarf Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1199
-msgid "Andromeda VI"
+msgid "Huchra's Lens"
 msgstr ""
 
 #: nebulae/default/names.dat:1200
-msgid "Dragonfly Galaxy"
+msgid "Tucana Dwarf Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1201
-msgid "Spiderweb Galaxy"
+msgid "South America Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:1202 nebulae/default/names.dat:1320
-msgid "Boomerang Nebula"
+#: nebulae/default/names.dat:1202 nebulae/default/names.dat:1223
+msgid "Pegasus Dwarf Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1203
-msgid "Centaurus Bipolar Nebula"
+msgid "Barbon's Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:1204
-msgid "Cepheus I"
+#: nebulae/default/names.dat:1204 nebulae/default/names.dat:1252
+msgid "Minkowski's Object"
 msgstr ""
 
 #: nebulae/default/names.dat:1205
-msgid "Cetus Dwarf Galaxy"
+msgid "Superantennae Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1206
-msgid "Grasshopper B"
+msgid "Malin II"
 msgstr ""
 
-#: nebulae/default/names.dat:1207 nebulae/default/names.dat:1253
-msgid "Zwicky's Nonet"
+#: nebulae/default/names.dat:1207
+msgid "Sextans Dwarf Spheroidal Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1208
-msgid "BW Tauri"
+msgid "Padova 3"
 msgstr ""
 
 #: nebulae/default/names.dat:1209
-msgid "The Grasshopper Galaxy"
+msgid "Mailyan 16"
 msgstr ""
 
 #: nebulae/default/names.dat:1210
-msgid "Leo A"
+msgid "Cassiopeia 1"
 msgstr ""
 
 #: nebulae/default/names.dat:1211
-msgid "Leo III"
+msgid "Cassiopeia 2"
 msgstr ""
 
 #: nebulae/default/names.dat:1212
-msgid "Leo Dwarf Irregular Galaxy"
+msgid "Dwingeloo I"
 msgstr ""
 
 #: nebulae/default/names.dat:1213
-msgid "Sextans C"
+msgid "Speca Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1214
-msgid "Regulus Dwarf Galaxy"
+msgid "Sextans Ring"
 msgstr ""
 
 #: nebulae/default/names.dat:1215
-msgid "Leo I"
+msgid "Ring Galaxy in Sextans"
 msgstr ""
 
 #: nebulae/default/names.dat:1216
-msgid "Harrington-Wilson #1"
+msgid "Camelopardalis A"
 msgstr ""
 
 #: nebulae/default/names.dat:1217
-msgid "Markarian 421"
+msgid "Camelopardalis B"
 msgstr ""
 
 #: nebulae/default/names.dat:1218
-msgid "Zwicky #2"
+msgid "Burçin's Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1219
-msgid "Markarian 231"
+msgid "Beetle Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1220
-msgid "Exclamation Point Galaxy"
+msgid "TIE Fighter Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1221
-msgid "Serpens Dwarf Galaxy"
+msgid "Cassiopeia Dwarf Spheroidal Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1222
-msgid "Tadpole Galaxy"
-msgstr ""
-
-#: nebulae/default/names.dat:1223
-msgid "Egg Nebula"
+msgid "Andromeda VII"
 msgstr ""
 
 #: nebulae/default/names.dat:1224
-msgid "Cygnus Egg"
+msgid "Pegasus II"
 msgstr ""
 
 #: nebulae/default/names.dat:1225
-msgid "Pegasus Dwarf Irregular Galaxy"
+msgid "Andromeda VI"
+msgstr ""
+
+#: nebulae/default/names.dat:1226
+msgid "Dragonfly Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1227
-msgid "Gamma Leonis Group"
+msgid "Spiderweb Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:1228
-msgid "Lemon Galaxy"
+#: nebulae/default/names.dat:1228 nebulae/default/names.dat:1347
+msgid "Boomerang Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1229
-msgid "Minkowski's Butterfly"
+msgid "Centaurus Bipolar Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1230
-msgid "Twin Jet Nebula"
+msgid "Cepheus I"
 msgstr ""
 
 #: nebulae/default/names.dat:1231
-msgid "Campbell's Hydrogen Star"
+msgid "Cetus Dwarf Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1232
-msgid "Methuselah Nebula"
+msgid "Grasshopper B"
 msgstr ""
 
-#: nebulae/default/names.dat:1233
-msgid "Baby Dumbbell Nebula"
+#: nebulae/default/names.dat:1233 nebulae/default/names.dat:1280
+msgid "Zwicky's Nonet"
 msgstr ""
 
 #: nebulae/default/names.dat:1234
-msgid "Headphone Nebula"
+msgid "BW Tauri"
 msgstr ""
 
 #: nebulae/default/names.dat:1235
-msgid "Jones-Emberson 1"
+msgid "The Grasshopper Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1236
-msgid "Westbrook Nebula"
+msgid "Leo A"
 msgstr ""
 
 #: nebulae/default/names.dat:1237
-msgid "Southern Owl Nebula"
+msgid "Leo III"
 msgstr ""
 
 #: nebulae/default/names.dat:1238
-msgid "Southern Crab Nebula"
+msgid "Leo Dwarf Irregular Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1239
-msgid "Fine Ring Nebula"
+msgid "Sextans C"
+msgstr ""
+
+#: nebulae/default/names.dat:1240
+msgid "Regulus Dwarf Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1241
-msgid "The Chamber of Horrors"
+msgid "Leo I"
 msgstr ""
 
 #: nebulae/default/names.dat:1242
-msgid "Stingray Nebula"
+msgid "Harrington-Wilson #1"
 msgstr ""
 
 #: nebulae/default/names.dat:1243
-msgid "Water Lily Nebula"
+msgid "Markarian 421"
 msgstr ""
 
 #: nebulae/default/names.dat:1244
-msgid "Silkworm Nebula"
+msgid "Zwicky #2"
 msgstr ""
 
 #: nebulae/default/names.dat:1245
-msgid "Sakurai's Object"
+msgid "Markarian 231"
 msgstr ""
 
 #: nebulae/default/names.dat:1246
-msgid "Necklace Nebula"
+msgid "Exclamation Point Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1247
-msgid "Principes de Asturias Nebula"
+msgid "Serpens Dwarf Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1248
-msgid "Manzana"
+msgid "Tadpole Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1249
-msgid "Cotton Candy Nebula"
+msgid "Egg Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1250
-msgid "Haufen A"
+msgid "Cygnus Egg"
 msgstr ""
 
 #: nebulae/default/names.dat:1251
-msgid "Cetus Cluster"
+msgid "Pegasus Dwarf Irregular Galaxy"
 msgstr ""
 
-#: nebulae/default/names.dat:1252
-msgid "Perseus Cluster"
+#: nebulae/default/names.dat:1253
+msgid "Gamma Leonis Group"
 msgstr ""
 
 #: nebulae/default/names.dat:1254
-msgid "Train Wreck Cluster"
+msgid "Angel Wing"
+msgstr ""
+
+#: nebulae/default/names.dat:1255
+msgid "Lemon Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1256
-msgid "Hydra Cluster"
+msgid "Minkowski's Butterfly"
 msgstr ""
 
 #: nebulae/default/names.dat:1257
-msgid "Hydra I"
+msgid "Twin Jet Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1258
-msgid "Leo Cluster"
+msgid "Campbell's Hydrogen Star"
 msgstr ""
 
 #: nebulae/default/names.dat:1259
-msgid "Ursa Major I"
+msgid "Methuselah Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1260
-msgid "Coma Cluster"
+msgid "Baby Dumbbell Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1261
-msgid "Bootes Cluster"
+msgid "Headphone Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1262
-msgid "Corona Borealis Cluster"
+msgid "Jones-Emberson 1"
 msgstr ""
 
 #: nebulae/default/names.dat:1263
-msgid "Hercules Cluster"
+msgid "Westbrook Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1264
-msgid "KESR Galaxy"
+msgid "Southern Owl Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1265
-msgid "Pandora’s Cluster"
+msgid "Southern Crab Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1266
-msgid "Centaurus Cluster"
-msgstr ""
-
-#: nebulae/default/names.dat:1267
-msgid "Shapley 8 Cluster"
+msgid "Fine Ring Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1268
-msgid "Norma Cluster"
+msgid "The Chamber of Horrors"
 msgstr ""
 
 #: nebulae/default/names.dat:1269
-msgid "Great Attractor"
+msgid "Stingray Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1270
-msgid "Indus Cluster"
+msgid "Water Lily Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1271
-msgid "Fornax Cluster"
+msgid "Silkworm Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1272
-msgid "Fornax Group"
+msgid "Sakurai's Object"
 msgstr ""
 
 #: nebulae/default/names.dat:1273
-msgid "NGC 1399 Group"
+msgid "Necklace Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1274
-msgid "Antlia Cluster"
+msgid "Principes de Asturias Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1275
-msgid "E3 Cluster"
+msgid "Manzana"
 msgstr ""
 
 #: nebulae/default/names.dat:1276
-msgid "Hodge 11"
+msgid "Cotton Candy Nebula"
 msgstr ""
 
 #: nebulae/default/names.dat:1277
-msgid "Hodge 4"
+msgid "Haufen A"
 msgstr ""
 
 #: nebulae/default/names.dat:1278
-msgid "Sersic Cluster"
+msgid "Cetus Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:1279
-msgid "Reticulum Cluster"
+msgid "Perseus Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:1280
-msgid "Reticulum Dwarf Galaxy"
+#: nebulae/default/names.dat:1281
+msgid "Train Wreck Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:1283
+msgid "Hydra Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:1284
+msgid "Hydra I"
+msgstr ""
+
+#: nebulae/default/names.dat:1285
+msgid "Leo Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:1286
-msgid "Reticulum System"
+msgid "Ursa Major I"
 msgstr ""
 
 #: nebulae/default/names.dat:1287
-msgid "E2 Cluster"
+msgid "Coma Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:1288
-msgid "Padova 2"
+msgid "Bootes Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:1289
-msgid "Sacred Mushroom"
+msgid "Corona Borealis Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:1290
-msgid "Bok's Valentine Nebula"
+msgid "Hercules Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:1291
-msgid "Pictor A"
+msgid "KESR Galaxy"
 msgstr ""
 
 #: nebulae/default/names.dat:1292
-msgid "Ara Cluster"
+msgid "Pandora’s Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:1293
-msgid "Tonantzintla 2"
+msgid "Centaurus Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:1294
-msgid "Capricorn Dwarf Galaxy"
+msgid "Shapley 8 Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:1295
-msgid "Sagittarius A East"
+msgid "Norma Cluster"
 msgstr ""
 
 #: nebulae/default/names.dat:1296
-msgid "Duck Redux"
+msgid "Great Attractor"
 msgstr ""
 
 #: nebulae/default/names.dat:1297
+msgid "Indus Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:1298
+msgid "Fornax Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:1299
+msgid "Fornax Group"
+msgstr ""
+
+#: nebulae/default/names.dat:1300
+msgid "NGC 1399 Group"
+msgstr ""
+
+#: nebulae/default/names.dat:1301
+msgid "Antlia Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:1302
+msgid "E3 Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:1303
+msgid "Hodge 11"
+msgstr ""
+
+#: nebulae/default/names.dat:1304
+msgid "Hodge 4"
+msgstr ""
+
+#: nebulae/default/names.dat:1305
+msgid "Sersic Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:1306
+msgid "Reticulum Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:1307
+msgid "Reticulum Dwarf Galaxy"
+msgstr ""
+
+#: nebulae/default/names.dat:1313
+msgid "Reticulum System"
+msgstr ""
+
+#: nebulae/default/names.dat:1314
+msgid "E2 Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:1315
+msgid "Padova 2"
+msgstr ""
+
+#: nebulae/default/names.dat:1316
+msgid "Sacred Mushroom"
+msgstr ""
+
+#: nebulae/default/names.dat:1317
+msgid "Bok's Valentine Nebula"
+msgstr ""
+
+#: nebulae/default/names.dat:1318
+msgid "Pictor A"
+msgstr ""
+
+#: nebulae/default/names.dat:1319
+msgid "Ara Cluster"
+msgstr ""
+
+#: nebulae/default/names.dat:1320
+msgid "Tonantzintla 2"
+msgstr ""
+
+#: nebulae/default/names.dat:1321
+msgid "Capricorn Dwarf Galaxy"
+msgstr ""
+
+#: nebulae/default/names.dat:1322
+msgid "Sagittarius A East"
+msgstr ""
+
+#: nebulae/default/names.dat:1323
+msgid "Duck Redux"
+msgstr ""
+
+#: nebulae/default/names.dat:1324
 #: skycultures/egyptian/constellation_names.eng.fab:6
 #: skycultures/greek_almagest/constellation_names.eng.fab:9
 #: skycultures/greek_farnese/constellation_names.eng.fab:9
@@ -8421,159 +8457,159 @@ msgstr ""
 msgid "Bird"
 msgstr ""
 
-#: nebulae/default/names.dat:1298
+#: nebulae/default/names.dat:1325
 msgid "Manatee Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:1301
+#: nebulae/default/names.dat:1328
 msgid "Medulla Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:1304
+#: nebulae/default/names.dat:1331
 msgid "Tycho's supernova remnant"
 msgstr ""
 
-#: nebulae/default/names.dat:1305
+#: nebulae/default/names.dat:1332
 msgid "Origem Loop"
 msgstr ""
 
-#: nebulae/default/names.dat:1306
+#: nebulae/default/names.dat:1333
 msgid "Monogem Ring"
 msgstr ""
 
-#: nebulae/default/names.dat:1307
+#: nebulae/default/names.dat:1334
 msgid "Monoceros Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:1308
+#: nebulae/default/names.dat:1335
 msgid "Monoceros Loop"
 msgstr ""
 
-#: nebulae/default/names.dat:1309
+#: nebulae/default/names.dat:1336
 msgid "Puppis A"
 msgstr ""
 
-#: nebulae/default/names.dat:1310
+#: nebulae/default/names.dat:1337
 msgid "Vela SNR"
 msgstr ""
 
-#: nebulae/default/names.dat:1311
+#: nebulae/default/names.dat:1338
 msgid "Vela XYZ"
 msgstr ""
 
-#: nebulae/default/names.dat:1312
+#: nebulae/default/names.dat:1339
 msgid "Vela Junior"
 msgstr ""
 
-#: nebulae/default/names.dat:1313
+#: nebulae/default/names.dat:1340
 msgid "Frying Pan"
 msgstr ""
 
-#: nebulae/default/names.dat:1314
+#: nebulae/default/names.dat:1341
 msgid "Lupus Loop"
 msgstr ""
 
-#: nebulae/default/names.dat:1315
+#: nebulae/default/names.dat:1342
 msgid "Tornado Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:1316
+#: nebulae/default/names.dat:1343
 msgid "Square Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:1319
+#: nebulae/default/names.dat:1346
 msgid "Inverted Horseshoe Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:1321
+#: nebulae/default/names.dat:1348
 msgid "Propeller Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:1322
+#: nebulae/default/names.dat:1349
 msgid "Muscleman Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:1323
+#: nebulae/default/names.dat:1350
 msgid "Pazmino's Cluster"
 msgstr ""
 
-#: nebulae/default/names.dat:1324
+#: nebulae/default/names.dat:1351
 msgid "Calabash Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:1325
+#: nebulae/default/names.dat:1352
 msgid "Rotten Egg Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:1326
+#: nebulae/default/names.dat:1353
 msgid "Frosty Leo Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:1327
+#: nebulae/default/names.dat:1354
 msgid "Gomez's Hamburger"
 msgstr ""
 
-#: nebulae/default/names.dat:1328
+#: nebulae/default/names.dat:1355
 msgid "Gomez Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:1329
+#: nebulae/default/names.dat:1356
 msgid "Footprint Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:1330
+#: nebulae/default/names.dat:1357
 msgid "Minkowski's Footprint"
 msgstr ""
 
-#: nebulae/default/names.dat:1331
+#: nebulae/default/names.dat:1358
 msgid "Sagittarius A West"
 msgstr ""
 
-#: nebulae/default/names.dat:1332
+#: nebulae/default/names.dat:1359
 msgid "Minispiral in Gal Center"
 msgstr ""
 
-#: nebulae/default/names.dat:1333
+#: nebulae/default/names.dat:1360
 msgid "Dark Doodad Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:1335
+#: nebulae/default/names.dat:1362
 msgid "Baade's Window"
 msgstr ""
 
-#: nebulae/default/names.dat:1336
+#: nebulae/default/names.dat:1363
 msgid "Funnel Cloud Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:1337
+#: nebulae/default/names.dat:1364
 msgid "Northern Coalsack"
 msgstr ""
 
-#: nebulae/default/names.dat:1338
+#: nebulae/default/names.dat:1365
 msgid "The Great Rift"
 msgstr ""
 
-#: nebulae/default/names.dat:1339
+#: nebulae/default/names.dat:1366
 msgid "Scutum Star Cloud"
 msgstr ""
 
-#: nebulae/default/names.dat:1341
+#: nebulae/default/names.dat:1368
 msgid "Patchy unnamed cloud"
 msgstr ""
 
-#: nebulae/default/names.dat:1342
+#: nebulae/default/names.dat:1369
 msgid "Large Sagittarius Star Cloud"
 msgstr ""
 
-#: nebulae/default/names.dat:1344
+#: nebulae/default/names.dat:1371
 msgid "Dark Horse Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:1345
+#: nebulae/default/names.dat:1372
 msgid "Prancing Horse Nebula"
 msgstr ""
 
-#: nebulae/default/names.dat:1346
+#: nebulae/default/names.dat:1373
 msgid "Norma Star Cloud"
 msgstr ""
 
@@ -54311,7 +54347,8 @@ msgstr ""
 msgid "Procyon"
 msgstr ""
 
-#: skycultures/egyptian/star_names.fab:2 skycultures/western/star_names.fab:177
+#: skycultures/egyptian/star_names.fab:2 skycultures/khoi-san/star_names.fab:7
+#: skycultures/western/star_names.fab:177
 #: skycultures/western_rey/star_names.fab:36
 #: skycultures/western_hlad/star_names.fab:68
 #: skycultures/western_SnT/star_names.fab:68
@@ -57129,6 +57166,136 @@ msgstr ""
 msgid "Warrawilbaarru"
 msgstr ""
 
+#: skycultures/khoi-san/constellation_names.eng.fab:1
+msgid "Stars' Road"
+msgstr ""
+
+#: skycultures/khoi-san/constellation_names.eng.fab:2
+msgid "Hunter and his wives"
+msgstr ""
+
+#: skycultures/khoi-san/constellation_names.eng.fab:3
+msgid "The Lion stalking Zebra"
+msgstr ""
+
+#: skycultures/khoi-san/constellation_names.eng.fab:4
+msgid "The Ant-egg Star"
+msgstr ""
+
+#: skycultures/khoi-san/constellation_names.eng.fab:5
+msgid "Male Steenbok"
+msgstr ""
+
+#: skycultures/khoi-san/constellation_names.eng.fab:6
+msgid "The Eyes of the Beast"
+msgstr ""
+
+#: skycultures/khoi-san/star_names.fab:1 skycultures/romanian/star_names.fab:11
+#: skycultures/western/star_names.fab:500
+#: skycultures/western_rey/star_names.fab:53
+#: skycultures/western_hlad/star_names.fab:10
+#: skycultures/western_SnT/star_names.fab:10
+#: skycultures/western_sternenkarten/star_names.fab:499
+#: skycultures/zulu/star_names.fab:1
+msgid "Achernar"
+msgstr ""
+
+#: skycultures/khoi-san/star_names.fab:2
+#: skycultures/western/star_names.fab:1001
+#: skycultures/western_rey/star_names.fab:27
+#: skycultures/western_hlad/star_names.fab:43
+#: skycultures/western_SnT/star_names.fab:43
+#: skycultures/western_sternenkarten/star_names.fab:1000
+#: skycultures/zulu/star_names.fab:2
+msgid "Aldebaran"
+msgstr ""
+
+#: skycultures/khoi-san/star_names.fab:3 skycultures/romanian/star_names.fab:46
+#: skycultures/western/star_names.fab:749
+#: skycultures/western_rey/star_names.fab:35
+#: skycultures/western_hlad/star_names.fab:46
+#: skycultures/western_SnT/star_names.fab:46
+#: skycultures/western_sternenkarten/star_names.fab:748
+#: skycultures/zulu/star_names.fab:3
+msgid "Rigel"
+msgstr ""
+
+#: skycultures/khoi-san/star_names.fab:4 skycultures/romanian/star_names.fab:47
+#: skycultures/western/star_names.fab:91
+#: skycultures/western_rey/star_names.fab:31
+#: skycultures/western_hlad/star_names.fab:47
+#: skycultures/western_SnT/star_names.fab:47
+#: skycultures/western_sternenkarten/star_names.fab:91
+#: skycultures/zulu/star_names.fab:4
+msgid "Capella"
+msgstr ""
+
+#: skycultures/khoi-san/star_names.fab:5 skycultures/romanian/star_names.fab:59
+#: skycultures/western/star_names.fab:744
+#: skycultures/western_rey/star_names.fab:34
+#: skycultures/western_hlad/star_names.fab:59
+#: skycultures/western_SnT/star_names.fab:59
+#: skycultures/western_sternenkarten/star_names.fab:743
+#: skycultures/zulu/star_names.fab:5
+msgid "Betelgeuse"
+msgstr ""
+
+#: skycultures/khoi-san/star_names.fab:6 skycultures/romanian/star_names.fab:66
+#: skycultures/western/star_names.fab:231
+#: skycultures/western_rey/star_names.fab:52
+#: skycultures/western_hlad/star_names.fab:65
+#: skycultures/western_SnT/star_names.fab:65
+#: skycultures/western_sternenkarten/star_names.fab:230
+#: skycultures/zulu/star_names.fab:6
+msgid "Canopus"
+msgstr ""
+
+#: skycultures/khoi-san/star_names.fab:8
+#: skycultures/romanian/star_names.fab:118
+#: skycultures/western/star_names.fab:391
+#: skycultures/western_rey/star_names.fab:55
+#: skycultures/western_hlad/star_names.fab:121
+#: skycultures/western_SnT/star_names.fab:121
+#: skycultures/western_sternenkarten/star_names.fab:390
+#: skycultures/zulu/star_names.fab:8
+msgid "Acrux"
+msgstr ""
+
+#: skycultures/khoi-san/star_names.fab:9
+#: skycultures/romanian/star_names.fab:132
+#: skycultures/western/star_names.fab:272
+#: skycultures/western_hlad/star_names.fab:137
+#: skycultures/western_SnT/star_names.fab:137
+#: skycultures/western_sternenkarten/star_names.fab:271
+#: skycultures/zulu/star_names.fab:9
+msgid "Hadar"
+msgstr ""
+
+#: skycultures/khoi-san/star_names.fab:10
+#: skycultures/romanian/star_names.fab:139 skycultures/zulu/star_names.fab:10
+msgid "Rigil Kent"
+msgstr ""
+
+#: skycultures/khoi-san/star_names.fab:11
+#: skycultures/romanian/star_names.fab:159
+#: skycultures/western/star_names.fab:936
+#: skycultures/western_rey/star_names.fab:42
+#: skycultures/western_hlad/star_names.fab:167
+#: skycultures/western_SnT/star_names.fab:167
+#: skycultures/western_sternenkarten/star_names.fab:935
+#: skycultures/zulu/star_names.fab:11
+msgid "Antares"
+msgstr ""
+
+#: skycultures/khoi-san/star_names.fab:12
+#: skycultures/western/star_names.fab:697
+#: skycultures/western_rey/star_names.fab:21
+#: skycultures/western_hlad/star_names.fab:189
+#: skycultures/western_SnT/star_names.fab:189
+#: skycultures/western_sternenkarten/star_names.fab:696
+msgid "Vega"
+msgstr ""
+
 #: skycultures/korean/constellation_names.eng.fab:1
 msgid "Holy Kettle"
 msgstr ""
@@ -59107,16 +59274,6 @@ msgstr ""
 msgid "Ruchbah"
 msgstr ""
 
-#: skycultures/romanian/star_names.fab:11
-#: skycultures/western/star_names.fab:500
-#: skycultures/western_rey/star_names.fab:53
-#: skycultures/western_hlad/star_names.fab:10
-#: skycultures/western_SnT/star_names.fab:10
-#: skycultures/western_sternenkarten/star_names.fab:499
-#: skycultures/zulu/star_names.fab:1
-msgid "Achernar"
-msgstr ""
-
 #: skycultures/romanian/star_names.fab:12
 #: skycultures/western/star_names.fab:309
 #: skycultures/western_hlad/star_names.fab:11
@@ -59366,25 +59523,6 @@ msgstr ""
 msgid "Cursa"
 msgstr ""
 
-#: skycultures/romanian/star_names.fab:46
-#: skycultures/western/star_names.fab:749
-#: skycultures/western_rey/star_names.fab:35
-#: skycultures/western_hlad/star_names.fab:46
-#: skycultures/western_SnT/star_names.fab:46
-#: skycultures/western_sternenkarten/star_names.fab:748
-#: skycultures/zulu/star_names.fab:3
-msgid "Rigel"
-msgstr ""
-
-#: skycultures/romanian/star_names.fab:47 skycultures/western/star_names.fab:91
-#: skycultures/western_rey/star_names.fab:31
-#: skycultures/western_hlad/star_names.fab:47
-#: skycultures/western_SnT/star_names.fab:47
-#: skycultures/western_sternenkarten/star_names.fab:91
-#: skycultures/zulu/star_names.fab:4
-msgid "Capella"
-msgstr ""
-
 #: skycultures/romanian/star_names.fab:49
 msgid "Alnath"
 msgstr ""
@@ -59437,16 +59575,6 @@ msgstr ""
 msgid "Wazn"
 msgstr ""
 
-#: skycultures/romanian/star_names.fab:59
-#: skycultures/western/star_names.fab:744
-#: skycultures/western_rey/star_names.fab:34
-#: skycultures/western_hlad/star_names.fab:59
-#: skycultures/western_SnT/star_names.fab:59
-#: skycultures/western_sternenkarten/star_names.fab:743
-#: skycultures/zulu/star_names.fab:5
-msgid "Betelgeuse"
-msgstr ""
-
 #: skycultures/romanian/star_names.fab:60 skycultures/western/star_names.fab:94
 #: skycultures/western_hlad/star_names.fab:60
 #: skycultures/western_SnT/star_names.fab:60
@@ -59486,16 +59614,6 @@ msgstr ""
 #: skycultures/western_SnT/star_names.fab:64
 #: skycultures/western_sternenkarten/star_names.fab:554
 msgid "Tejat"
-msgstr ""
-
-#: skycultures/romanian/star_names.fab:66
-#: skycultures/western/star_names.fab:231
-#: skycultures/western_rey/star_names.fab:52
-#: skycultures/western_hlad/star_names.fab:65
-#: skycultures/western_SnT/star_names.fab:65
-#: skycultures/western_sternenkarten/star_names.fab:230
-#: skycultures/zulu/star_names.fab:6
-msgid "Canopus"
 msgstr ""
 
 #: skycultures/romanian/star_names.fab:67
@@ -59882,16 +60000,6 @@ msgstr ""
 msgid "Zaniah"
 msgstr ""
 
-#: skycultures/romanian/star_names.fab:118
-#: skycultures/western/star_names.fab:391
-#: skycultures/western_rey/star_names.fab:55
-#: skycultures/western_hlad/star_names.fab:121
-#: skycultures/western_SnT/star_names.fab:121
-#: skycultures/western_sternenkarten/star_names.fab:390
-#: skycultures/zulu/star_names.fab:8
-msgid "Acrux"
-msgstr ""
-
 #: skycultures/romanian/star_names.fab:119
 #: skycultures/western/star_names.fab:380
 #: skycultures/western_hlad/star_names.fab:122
@@ -59995,15 +60103,6 @@ msgstr ""
 msgid "Muphrid"
 msgstr ""
 
-#: skycultures/romanian/star_names.fab:132
-#: skycultures/western/star_names.fab:272
-#: skycultures/western_hlad/star_names.fab:137
-#: skycultures/western_SnT/star_names.fab:137
-#: skycultures/western_sternenkarten/star_names.fab:271
-#: skycultures/zulu/star_names.fab:9
-msgid "Hadar"
-msgstr ""
-
 #: skycultures/romanian/star_names.fab:133
 #: skycultures/western/star_names.fab:437
 #: skycultures/western_rey/star_names.fab:10
@@ -60046,10 +60145,6 @@ msgstr ""
 #: skycultures/western_SnT/star_names.fab:144
 #: skycultures/western_sternenkarten/star_names.fab:128
 msgid "Seginus"
-msgstr ""
-
-#: skycultures/romanian/star_names.fab:139 skycultures/zulu/star_names.fab:10
-msgid "Rigil Kent"
 msgstr ""
 
 #: skycultures/romanian/star_names.fab:140
@@ -60200,16 +60295,6 @@ msgstr ""
 #: skycultures/western_SnT/star_names.fab:166
 #: skycultures/western_sternenkarten/star_names.fab:582
 msgid "Cujam"
-msgstr ""
-
-#: skycultures/romanian/star_names.fab:159
-#: skycultures/western/star_names.fab:936
-#: skycultures/western_rey/star_names.fab:42
-#: skycultures/western_hlad/star_names.fab:167
-#: skycultures/western_SnT/star_names.fab:167
-#: skycultures/western_sternenkarten/star_names.fab:935
-#: skycultures/zulu/star_names.fab:11
-msgid "Antares"
 msgstr ""
 
 #: skycultures/romanian/star_names.fab:160
@@ -63600,14 +63685,6 @@ msgstr ""
 msgid "Dolones X"
 msgstr ""
 
-#: skycultures/western/star_names.fab:697
-#: skycultures/western_rey/star_names.fab:21
-#: skycultures/western_hlad/star_names.fab:189
-#: skycultures/western_SnT/star_names.fab:189
-#: skycultures/western_sternenkarten/star_names.fab:696
-msgid "Vega"
-msgstr ""
-
 #: skycultures/western/star_names.fab:698
 #: skycultures/western_sternenkarten/star_names.fab:697
 msgid "Fidis"
@@ -64535,15 +64612,6 @@ msgstr ""
 msgid "Alava"
 msgstr ""
 
-#: skycultures/western/star_names.fab:1001
-#: skycultures/western_rey/star_names.fab:27
-#: skycultures/western_hlad/star_names.fab:43
-#: skycultures/western_SnT/star_names.fab:43
-#: skycultures/western_sternenkarten/star_names.fab:1000
-#: skycultures/zulu/star_names.fab:2
-msgid "Aldebaran"
-msgstr ""
-
 #: skycultures/western/star_names.fab:1002
 #: skycultures/western_sternenkarten/star_names.fab:1001
 msgid "Cor Tauri"
@@ -65406,8 +65474,33 @@ msgstr ""
 msgid "Bradley 3077"
 msgstr ""
 
+#: skycultures/xhosa/constellation_names.eng.fab:1
 #: skycultures/zulu/constellation_names.eng.fab:1
 msgid "Digging Stars"
+msgstr ""
+
+#: skycultures/xhosa/constellation_names.eng.fab:2
+msgid "The Champion"
+msgstr ""
+
+#: skycultures/xhosa/constellation_names.eng.fab:3
+msgid "Boys dancing"
+msgstr ""
+
+#: skycultures/xhosa/constellation_names.eng.fab:4
+msgid "Angry dog"
+msgstr ""
+
+#: skycultures/xhosa/constellation_names.eng.fab:5
+msgid "In a queue"
+msgstr ""
+
+#: skycultures/xhosa/star_names.fab:1
+msgid "uCanzibe"
+msgstr ""
+
+#: skycultures/xhosa/star_names.fab:2
+msgid "iQhawa"
 msgstr ""
 
 #: skycultures/zulu/constellation_names.eng.fab:2

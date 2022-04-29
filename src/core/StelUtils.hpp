@@ -140,6 +140,13 @@ namespace StelUtils
 	//! @param s second component
 	void radToDms(double rad, bool& sign, unsigned int& d, unsigned int& m, double& s);
 
+	//! Convert an angle in radian to decimal degree.
+	//! @param rad input angle in radian
+	//! @param sign true if positive, false otherwise
+	//! @param deg decimal degree
+	Q_DECL_DEPRECATED_X("just use rad*M_180_PI instead")
+	void radToDecDeg(double rad, bool& sign, double& deg);
+
 	//! Convert an angle in radian to a decimal degree string.
 	//! @param angle input angle in radian
 	//! @param precision
