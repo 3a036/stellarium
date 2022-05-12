@@ -234,7 +234,7 @@ void ConfigurationDialog::createDialogContent()
 	ui->todayTimeSpinBox->setTime(core->getInitTodayTime());
 	connect(ui->todayTimeSpinBox, SIGNAL(timeChanged(QTime)), core, SLOT(setInitTodayTime(QTime)));
 	ui->fixedDateTimeEdit->setMinimumDate(QDate(100,1,1));
-	ui->fixedDateTimeEdit->setDateTime(StelUtils::jdToQDateTime(core->getPresetSkyTime()));
+	ui->fixedDateTimeEdit->setDateTime(StelUtils::jdToQDateTime(core->getPresetSkyTime(), false)); // FIXME: false must become true. What are the consequences?
 	ui->fixedDateTimeEdit->setDisplayFormat("dd.MM.yyyy HH:mm");
 	connect(ui->fixedDateTimeEdit, SIGNAL(dateTimeChanged(QDateTime)), core, SLOT(setPresetSkyTime(QDateTime)));
 
@@ -1439,7 +1439,7 @@ void ConfigurationDialog::setFixedDateTimeToCurrent(void)
 {
 	StelCore* core = StelApp::getInstance().getCore();
 	double JD = core->getJD();
-	ui->fixedDateTimeEdit->setDateTime(StelUtils::jdToQDateTime(JD+core->getUTCOffset(JD)/24));
+	ui->fixedDateTimeEdit->setDateTime(StelUtils::jdToQDateTime(JD+core->getUTCOffset(JD)/24, false)); // FIXME: false must become true. What are the consequences?
 	ui->fixedTimeRadio->setChecked(true);
 	setStartupTimeMode();
 }
